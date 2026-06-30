@@ -36,7 +36,7 @@ Exploratory Data Analysis on a maternal health dataset originally recorded in Be
 
 ---
 
-## Analyses
+## Analysis
 
 ### 1. Data Cleaning & Initial EDA (`test.py`)
 #### Data Cleaning Steps
