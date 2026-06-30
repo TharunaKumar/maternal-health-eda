@@ -69,10 +69,31 @@ The countplot breaks down anemia status across both risk groups:
 The majority of patients fall into the None category (~580 risky, ~290 non-risky), which shows an overall 2:1 class imbalance in the dataset.
 For both Minimal and Medium anemia categories, the ~2:1 risky-to-non-risky ratio is still there, with roughly 45 risky vs 20 non-risky patients in each.
 The consistent ratio across all anemia categories suggests that anemia severity alone does not meaningfully increase pregnancy risk beyond the baseline rate.
-### 2. Risk Factor Deep-Dive (`risk_factor_analysis.py`)
-- Analyses co-occurrence of anemia and high BP with risky pregnancy
-- Evaluates VDRL, HRsAG, jaundice severity, and fetal position as risk indicators
-- **Key finding:** Any patient with high BP (systolic ≥ 120) is classified as risky 100% of the time — the strongest single predictor in the dataset
+### 2. Risk Factor Analysis (`risk_factor_analysis.py`)
+#### Overview
+This analysis investigates how individual and combined clinical risk factors relate to pregnancy risk classification. Five plots examine blood pressure, anemia, MAP, jaundice, and fetal position as potential indicators of risk.
+
+#### Visualisations
+##### Plot 1 : Anemia and High BP vs Risky Pregnancy %
+This plot examines whether the combination of anemia and high BP (systolic ≥ 120) drives risk classification more than either factor alone:
+
+Patients with no anemia and normal BP have a 63.7% risk rate where the baseline in the dataset is 66.6%.
+Patients with anemia and normal BP show a similar 64.3% risk rate, indicating that anemia alone does not contribute a risky pregnancy.
+Both groups with high BP — regardless of whether anemia is present — are classified as risky 100% of the time, making high blood pressure the single strongest predictor in the entire dataset.
+
+##### Plot 2 : Risk % by Anemia Severity
+
+Across all three anemia categories — None (66.7%), Minimal (66.1%), and Medium (67.2%) — the risk percentage stays within 1% of each other
+This near-flat pattern shows that anemia severity has no meaningful independent effect on pregnancy risk classification.
+
+##### Plot 3 : Distribution of MAP by Risk Group
+The boxplot shows an upward shift in MAP for the risky pregnancy group compared to the non-risky group:
+
+The risky group has a median MAP of approximately 77 mmHg, with an IQR between ~74–80 mmHg and a narrow overall spread.
+The non-risky group has a lower median MAP of approximately 73 mmHg, a wider IQR (~70–80 mmHg), indicating greater variability among lower-risk patients.
+The tighter, higher distribution in the risky group suggests that elevated MAP is a consistent characteristic of risky pregnancies.
+
+##### Plot 4 : 
 
 ### 3. Correlation & Multivariate Analysis (`correlation_analysis.py`)
 - Correlation heatmap across all numerical clinical features
