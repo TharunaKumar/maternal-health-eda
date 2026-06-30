@@ -1,0 +1,999 @@
+name,age,pregnant,right_titi,pregnancy,weight,height,blood_pressure,anemia,jaundice,position_of_pregnant_baby,movement_of_the_baby_in_the_womb,fetal_heart_rate,urine_test_for_albumin,urine_test_sugar,vdrl,hrsag,risky_pregnancy,systolic_bp,diastolic_bp
+Rituporna,18,1st,1st,38 week,50 kg,5.3'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Moina,25,2nd,2nd,38 week,60 kg,5.2'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Rabeya,20,1st,1st,30 week,55 kg,5.0'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Shorna,22,1st,3rd,35 week,51 kg,5.4'',110/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Tania Akter,20,1st,2nd,30 week,53 kg,5.2'',100/55,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,No,100,55
+Forida,22,1st,1st,30 week,61 kg,5.1'',100/65,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,100,65
+Shikha,20,1st,2nd,35 week,55 kg,5.0'',120/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,120,60
+Runa,22,1st,3rd,20 week,52 kg,5.4'',110/55,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,55
+Shalekha,32,3rd,2nd,23 week,53 kg,5.3'',90/60,None,None,Normal,Normal,140m,None,No,Negative,Negative,Yes,90,60
+Taslima,21,2nd,2nd,28 week,51 kg,5.2'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Shumi,23,1st,1st,30 week,62 kg,5.3'',100/70,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,70
+Rinu,24,2nd,1st,25 week,58 kg,5.5'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,90,60
+Bina Akter,20,1st,1st,32 week,56 kg,5.4'',100/60,None,Minimal,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Kakoli,24,1st,2nd,25 week,60 kg,5.5'',100/60,Minimal,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,60
+Asmani,23,1st,2nd,26 week,65 kg,5.1'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,100,60
+Ruma,20,1st,1st,24 week,55 kg,5.0'',110/80,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,80
+Kulsom,30,2nd,2nd,35 week,61 kg,5.2'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Nasima Akter,20,2nd,1st,38 week,58 kg,5.3'',90/60,Medium,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,90,60
+Jannatul Ferdush,18,1st,2nd,30 week,56 kg,5.2'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,70
+Poli,26,2nd,3rd,35 week,65 kg,5.1'',110/60,None,None,Normal,Normal,140m,None,No,Positive,Negative,No,110,60
+Hamida,24,1st,2nd,30 week,62 kg,5.0'',110/80,None,None,Normal,Normal,130m,Higher,Yes,Negative,Negative,Yes,110,80
+Dilara,30,1st,2nd,30 week,49 kg,5.3'',120/60,None,Minimal,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,120,60
+Shikta,24,2nd,3rd,35 week,45 kg,5.6'',80/60,None,None,Abnormal,Normal,140m,None,Yes,Negative,Negative,No,80,60
+Munni,19,1st,1st,20 week,50 kg,5.3'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,110,60
+Lima,22,1st,1st,23 week,52 kg,5.4'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Riya,20,1st,2nd,28 week,63 kg,5.2'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Shuma,22,1st,1st,30 week,60 kg,5.3'',100/60,None,None,Normal,Normal,125m,None,No,Negative,Negative,Yes,100,60
+Shetu Akter,21,1st,3rd,25 week,50 kg,5.2'',110/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Gulapi,20,1st,2nd,32 week,60 kg,5.0'',100/55,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,100,55
+Shanta,32,2nd,1st,25 week,55 kg,5.4'',100/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,100,65
+Khadija,20,2nd,2nd,26 week,51 kg,5.2'',120/60,Minimal,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,120,60
+Rumana,26,1st,3rd,24 week,53 kg,5.1'',110/55,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,55
+Lamia,21,2nd,2nd,35 week,61 kg,5.0'',90/60,None,None,Normal,Normal,120m,None,Yes,Negative,Positive,Yes,90,60
+Sharmin,27,1st,2nd,38 week,55 kg,5.4'',110/80,None,Minimal,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Ruksana,19,1st,1st,30 week,52 kg,5.3'',100/70,Medium,None,Normal,Normal,130m,Minimal,Yes,Negative,Negative,No,100,70
+Tinni,18,1st,1st,35 week,53 kg,5.2'',90/60,None,None,Normal,Normal,120m,None,No,Positive,Negative,Yes,90,60
+Shahida,26,1st,1st,30 week,51 kg,5.3'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Jannat,22,2nd,2nd,30 week,62 kg,5.5'',100/60,None,None,Normal,Normal,125m,Minimal,Yes,Positive,Negative,No,100,60
+Shorufa,30,2nd,2nd,35 week,58 kg,5.4'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Shumi,24,1st,1st,20 week,56 kg,5.5'',110/80,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,110,80
+Shirina,23,1st,2nd,23 week,60 kg,5.1'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,110,80
+Lacky,23,1st,1st,28 week,65 kg,5.0'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Positive,Yes,90,60
+Tania Akter,28,2nd,2nd,30 week,55 kg,5.2'',100/70,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,Yes,100,70
+Julekha,27,2nd,3rd,25 week,61 kg,5.3'',110/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,110,60
+Morzina Khatun,30,2nd,2nd,32 week,58 kg,5.2'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,110,80
+Ummehani,21,2nd,2nd,25 week,56 kg,5.1'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Hashi,19,1st,3rd,26 week,65 kg,5.0'',80/60,Minimal,None,Normal,Normal,120m,Medium,No,Negative,Negative,No,80,60
+Minara,25,1st,1st,24 week,62 kg,5.3'',110/60,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,Yes,110,60
+Lija,20,1st,1st,35 week,49 kg,5.6'',100/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,60
+Shikha,19,1st,2nd,38 week,45 kg,5.3'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Shipu,23,3rd,1st,30 week,50 kg,5.4'',100/60,Medium,None,Normal,Normal,150m,None,Yes,Negative,Positive,Yes,100,60
+Rabeya,21,1st,3rd,36 week,52 kg,5.2'',110/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,65
+Bilkis,24,1st,2nd,30 week,63 kg,5.3'',100/55,Minimal,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,55
+Rani,20,1st,1st,30 week,60 kg,5.2'',100/65,Medium,None,Normal,Normal,130m,Minimal,No,Positive,Negative,Yes,100,65
+Ruma,19,2nd,2nd,35 week,50 kg,5.0'',120/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,120,60
+Asmaul Husna,25,1st,3rd,20 week,60 kg,5.4'',110/55,None,Minimal,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,55
+Easmin,24,2nd,2nd,23 week,55 kg,5.2'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,90,60
+Kolpona,23,1st,2nd,28 week,51 kg,5.1'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Monira,18,1st,1st,30 week,53 kg,5.0'',100/70,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,No,100,70
+Sharmin Akter,20,1st,1st,25 week,61 kg,5.4'',90/60,None,None,Normal,Normal,125m,None,Yes,Positive,Positive,Yes,90,60
+Samia,19,1st,1st,32 week,55 kg,5.3'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Khaleda,30,2nd,2nd,25 week,52 kg,5.2'',100/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,100,60
+Mina,23,1st,2nd,26 week,53 kg,5.3'',100/60,None,None,Normal,Normal,140m,Medium,No,Negative,Negative,Yes,100,60
+Tanzina,22,1st,1st,24 week,51 kg,5.5'',110/80,None,None,Normal,Normal,140m,Higher,Yes,Positive,Negative,Yes,110,80
+Rumana,19,1st,2nd,23 week,62 kg,5.4'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Kakoli,26,2nd,1st,24 week,58 kg,5.5'',90/60,Minimal,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,90,60
+Shila,23,1st,2nd,35 week,56 kg,5.1'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,70
+Afshana,25,1st,3rd,38 week,60 kg,5.0'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Tahomina,25,1st,2nd,30 week,65 kg,5.2'',110/80,None,None,Normal,Normal,120m,None,Yes,Negative,Positive,Yes,110,80
+Labli,22,1st,2nd,35 week,55 kg,5.3'',120/60,Medium,None,Normal,Normal,130m,Minimal,Yes,Positive,Negative,Yes,120,60
+Juthi Akter,22,1st,3rd,30 week,61 kg,5.2'',80/60,None,Minimal,Normal,Normal,125m,None,Yes,Negative,Negative,No,80,60
+Asha,19,1st,1st,30 week,58 kg,5.1'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,60
+Urmi Habib,30,2nd,1st,35 week,56 kg,5.0'',100/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,100,60
+Mina,25,1st,2nd,20 week,65 kg,5.3'',100/70,None,None,Normal,Normal,140m,None,No,Positive,Negative,No,100,70
+Chaina Akter,18,1st,1st,23 week,62 kg,5.6'',100/60,None,None,Normal,Normal,140m,Medium,Yes,Negative,Negative,Yes,100,60
+Kobita,25,1st,3rd,28 week,49 kg,5.3'',110/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Sheuli,20,1st,2nd,30 week,45 kg,5.4'',100/55,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,55
+Boishakhi,22,1st,1st,25 week,50 kg,5.2'',100/65,None,None,Normal,Normal,140m,None,Yes,Positive,Positive,Yes,100,65
+Sadia,20,1st,2nd,32 week,52 kg,5.3'',120/60,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,Yes,120,60
+Tajbina,22,1st,3rd,25 week,63 kg,5.2'',110/55,None,None,Normal,Normal,120m,Higher,Yes,Positive,Negative,No,110,55
+Arjina,20,1st,2nd,26 week,60 kg,5.0'',90/60,None,None,Normal,Normal,130m,None,No,Negative,Negative,Yes,90,60
+Shima,22,1st,2nd,24 week,50 kg,5.4'',110/80,Minimal,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,80
+Takia,32,3rd,1st,35 week,60 kg,5.2'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,70
+Laisa,21,1st,1st,38 week,55 kg,5.1'',90/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,90,60
+Morirom,23,1st,1st,30 week,51 kg,5.0'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Mariha,24,1st,2nd,35 week,53 kg,5.4'',100/60,Medium,None,Normal,Normal,140m,Minimal,Yes,Positive,Negative,No,100,60
+Rumana,20,1st,2nd,30 week,61 kg,5.3'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,100,60
+Showrobi,24,2nd,1st,30 week,55 kg,5.2'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Lamia,23,1st,2nd,35 week,52 kg,5.3'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,110,80
+Misti,20,1st,1st,20 week,53 kg,5.5'',90/60,None,None,Normal,Normal,130m,None,No,Positive,Negative,Yes,90,60
+Shimoli,30,2nd,2nd,23 week,51 kg,5.4'',100/70,None,None,Normal,Normal,120m,Medium,Yes,Negative,Negative,Yes,100,70
+Anju,20,1st,3rd,28 week,62 kg,5.5'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Shamima,18,1st,2nd,30 week,58 kg,5.1'',110/80,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,110,80
+Lacky,26,2nd,2nd,25 week,56 kg,5.0'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Laju,24,1st,3rd,32 week,60 kg,5.2'',80/60,None,None,Normal,Normal,150m,Medium,Yes,Negative,Negative,No,80,60
+Shonda Moni,30,2nd,1st,25 week,65 kg,5.3'',110/60,None,None,Normal,Normal,140m,Higher,Yes,Positive,Positive,Yes,110,60
+Mitu,24,1st,1st,26 week,55 kg,5.2'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Sharmin Akter,19,1st,2nd,24 week,61 kg,5.1'',100/70,Minimal,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Laboni,22,1st,1st,35 week,58 kg,5.0'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Husanara Begum,20,1st,3rd,38 week,56 kg,5.3'',110/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,65
+Aklima Akter,22,1st,2nd,30 week,65 kg,5.6'',100/55,None,None,Normal,Normal,130m,None,No,Negative,Negative,No,100,55
+Moina,21,1st,1st,36 week,62 kg,5.3'',100/65,Medium,None,Normal,Normal,120m,Minimal,Yes,Positive,Negative,Yes,100,65
+Shimu,20,1st,2nd,30 week,49 kg,5.4'',120/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Chaina Akter,32,2nd,3rd,30 week,45 kg,5.2'',110/55,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,No,110,55
+Shaleha,20,1st,2nd,35 week,50 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,90,60
+Rina,26,2nd,2nd,20 week,52 kg,5.2'',110/80,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,110,80
+Jannatul Ferdush,21,1st,1st,23 week,63 kg,5.0'',100/70,None,None,Normal,Normal,140m,Medium,Yes,Negative,Negative,No,100,70
+Musheda,27,1st,1st,28 week,60 kg,5.4'',90/60,None,None,Normal,Normal,140m,None,No,Positive,Negative,Yes,90,60
+Shiuli Akter,19,1st,1st,30 week,50 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Sharmin,18,1st,2nd,25 week,60 kg,5.1'',100/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,60
+Moina,26,1st,2nd,32 week,55 kg,5.0'',100/60,None,None,Normal,Normal,140m,Medium,Yes,Negative,Negative,Yes,100,60
+Lija,22,2nd,1st,25 week,51 kg,5.4'',110/80,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,Yes,110,80
+Rabeya,30,2nd,2nd,26 week,53 kg,5.3'',110/80,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,110,80
+Rituporna,24,1st,1st,24 week,61 kg,5.2'',90/60,Minimal,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,90,60
+Shadikurnahar,23,1st,2nd,23 week,55 kg,5.3'',100/70,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,70
+Shorna,23,1st,3rd,24 week,52 kg,5.5'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Shadia,28,1st,2nd,35 week,53 kg,5.4'',110/80,None,None,Normal,Normal,150m,None,No,Negative,Negative,Yes,110,80
+Asha,27,1st,2nd,38 week,51 kg,5.5'',120/60,Medium,None,Normal,Normal,140m,Minimal,Yes,Positive,Negative,Yes,120,60
+Sholema,30,1st,3rd,30 week,62 kg,5.1'',80/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,80,60
+Noyon Moni,21,2nd,1st,35 week,58 kg,5.0'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,60
+Hashi,19,1st,1st,30 week,56 kg,5.2'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Naili,25,1st,2nd,30 week,60 kg,5.3'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,70
+Firoja,20,1st,1st,35 week,65 kg,5.2'',100/60,None,None,Normal,Normal,130m,Medium,Yes,Negative,Positive,Yes,100,60
+Shurjina,19,1st,3rd,20 week,55 kg,5.1'',110/65,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,65
+Popi,23,1st,2nd,23 week,61 kg,5.0'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Gulapi,21,1st,1st,28 week,58 kg,5.3'',100/65,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,100,65
+Rumana,24,2nd,2nd,30 week,56 kg,5.6'',120/60,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,Yes,120,60
+Khadija,20,1st,3rd,25 week,65 kg,5.3'',110/55,None,None,Normal,Normal,150m,Higher,No,Positive,Negative,No,110,55
+Sharmin,19,1st,2nd,32 week,62 kg,5.4'',90/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,90,60
+Shuva,25,1st,2nd,25 week,49 kg,5.2'',110/80,Minimal,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Ruksana,24,1st,1st,26 week,45 kg,5.3'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,70
+Maria,23,1st,1st,24 week,50 kg,5.2'',90/60,None,None,Normal,Normal,120m,None,Yes,Positive,Positive,Yes,90,60
+Shipu,18,1st,1st,35 week,52 kg,5.0'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Bithi,20,1st,2nd,38 week,63 kg,5.4'',100/60,Medium,None,Normal,Normal,130m,Minimal,Yes,Positive,Negative,No,100,60
+Shimu,19,2nd,2nd,30 week,60 kg,5.2'',100/60,None,None,Normal,Normal,120m,None,No,Negative,Negative,Yes,100,60
+Kulshum,30,2nd,1st,35 week,50 kg,5.1'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Tania Akter,23,1st,2nd,30 week,60 kg,5.0'',110/80,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,No,110,80
+Jorna,22,1st,1st,30 week,55 kg,5.4'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Rumi,19,1st,2nd,35 week,51 kg,5.3'',100/70,None,None,Normal,Normal,150m,Medium,Yes,Negative,Negative,Yes,100,70
+Amina,26,1st,3rd,20 week,53 kg,5.2'',110/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,60
+Anjuman,23,1st,2nd,23 week,61 kg,5.3'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,110,80
+Konika,25,1st,2nd,28 week,55 kg,5.5'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Tanjin,25,2nd,3rd,30 week,52 kg,5.4'',80/60,None,None,Normal,Normal,120m,Medium,Yes,Negative,Negative,No,80,60
+Mithila,22,1st,1st,25 week,53 kg,5.5'',110/60,None,None,Normal,Normal,140m,Higher,No,Positive,Negative,Yes,110,60
+Eti,22,1st,1st,32 week,51 kg,5.1'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Shantana,19,1st,2nd,25 week,62 kg,5.0'',100/70,Minimal,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,70
+Jannatul,30,2nd,1st,26 week,58 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Rushoni Akter,25,1st,3rd,24 week,56 kg,5.3'',110/65,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,65
+Runa,18,1st,2nd,35 week,60 kg,5.2'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Nurjahan,25,1st,1st,38 week,65 kg,5.1'',100/65,Medium,None,Normal,Normal,150m,Minimal,Yes,Positive,Positive,Yes,100,65
+Rupali,20,2nd,2nd,30 week,55 kg,5.0'',120/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,120,60
+Rujina Akter,22,1st,3rd,36 week,61 kg,5.3'',110/55,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,55
+Rotna,20,1st,2nd,30 week,58 kg,5.6'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,90,60
+Asia,22,1st,2nd,30 week,56 kg,5.3'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Ayesha,20,1st,1st,35 week,65 kg,5.4'',100/70,None,None,Normal,Normal,140m,Medium,No,Negative,Negative,No,100,70
+Morsheda,22,1st,1st,20 week,62 kg,5.2'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Khadija,32,2nd,1st,23 week,49 kg,5.3'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Lacky,21,1st,2nd,28 week,45 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,60
+Ruksana,23,2nd,2nd,30 week,50 kg,5.0'',100/60,None,None,Normal,Normal,125m,Medium,Yes,Negative,Positive,Yes,100,60
+Lubna,24,1st,1st,25 week,52 kg,5.4'',110/80,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,Yes,110,80
+Laisa,20,1st,2nd,32 week,63 kg,5.2'',110/80,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,110,80
+Afroz,24,1st,1st,25 week,60 kg,5.1'',90/60,Minimal,None,Normal,Normal,140m,None,No,Positive,Negative,Yes,90,60
+Takia,23,1st,2nd,26 week,50 kg,5.0'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,70
+Mahomuda,20,1st,3rd,24 week,60 kg,5.4'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Rajia Khatun,30,1st,2nd,23 week,55 kg,5.3'',110/80,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,110,80
+Shamshurnahar,20,1st,2nd,24 week,51 kg,5.2'',120/60,Medium,None,Normal,Normal,140m,Minimal,Yes,Positive,Negative,Yes,120,60
+Khadija Akter,18,2nd,3rd,35 week,53 kg,5.3'',80/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,80,60
+Runa,26,1st,1st,38 week,61 kg,5.5'',110/60,None,None,Normal,Normal,120m,None,Yes,Positive,Positive,Yes,110,60
+Junaki,24,1st,1st,30 week,55 kg,5.4'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Shonda,30,1st,2nd,35 week,52 kg,5.5'',100/70,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,No,100,70
+Jesmin,24,1st,1st,30 week,53 kg,5.1'',100/60,None,None,Normal,Normal,130m,Medium,No,Negative,Negative,Yes,100,60
+Shahonaj,19,1st,3rd,30 week,51 kg,5.0'',110/65,Medium,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,110,65
+Beuty,22,1st,2nd,35 week,62 kg,5.2'',100/55,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,55
+Shumi Akter,20,2nd,1st,20 week,58 kg,5.3'',100/65,Minimal,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,100,65
+Jorfuli,22,1st,2nd,23 week,56 kg,5.2'',120/60,Medium,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,Yes,120,60
+Smrity,21,1st,3rd,28 week,60 kg,5.1'',110/55,None,None,Normal,Normal,120m,Higher,Yes,Positive,Negative,No,110,55
+Shirina Begum,20,1st,2nd,30 week,65 kg,5.0'',90/60,None,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,90,60
+Anjona,32,1st,2nd,25 week,55 kg,5.3'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Shahida,20,1st,1st,32 week,61 kg,5.6'',100/70,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,70
+Tania,26,1st,1st,25 week,58 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Mafi,21,1st,1st,26 week,56 kg,5.4'',100/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,60
+Mim,27,2nd,2nd,24 week,65 kg,5.2'',100/60,None,None,Normal,Normal,130m,Minimal,No,Positive,Negative,No,100,60
+Juleka,19,1st,2nd,35 week,62 kg,5.3'',100/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,100,60
+Morjina,18,1st,1st,38 week,49 kg,5.2'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Ummehani,26,1st,2nd,30 week,45 kg,5.0'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,110,80
+Bilkis Akter,22,1st,1st,35 week,50 kg,5.4'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,90,60
+Hasna Akter,30,1st,2nd,30 week,52 kg,5.2'',100/70,None,None,Normal,Normal,120m,Medium,Yes,Negative,Negative,Yes,100,70
+Minara,24,1st,3rd,30 week,63 kg,5.1'',110/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,60
+Lija,23,1st,2nd,35 week,60 kg,5.0'',110/80,Minimal,None,Normal,Normal,130m,None,No,Negative,Negative,Yes,110,80
+Shikha,23,2nd,2nd,20 week,50 kg,5.4'',120/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,120,60
+Alpona Akter,28,2nd,3rd,23 week,60 kg,5.3'',80/60,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,No,80,60
+Shefali,27,1st,1st,28 week,55 kg,5.2'',110/60,None,None,Normal,Normal,125m,Higher,Yes,Positive,Negative,Yes,110,60
+Rani,30,2nd,1st,30 week,51 kg,5.3'',100/60,Medium,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Shuma,21,1st,2nd,25 week,53 kg,5.5'',100/70,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,100,70
+Noyon Moni,19,1st,1st,32 week,61 kg,5.4'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,100,60
+Zuma,25,1st,3rd,25 week,55 kg,5.5'',110/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,65
+Bilkis,20,1st,2nd,26 week,52 kg,5.1'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Asmaul Husna,19,2nd,1st,24 week,53 kg,5.0'',100/65,None,None,Normal,Normal,120m,Minimal,No,Positive,Negative,Yes,100,65
+Monira,23,1st,2nd,35 week,51 kg,5.2'',120/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,120,60
+Forida,21,1st,3rd,38 week,62 kg,5.3'',110/55,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,55
+Mina,24,1st,2nd,30 week,58 kg,5.2'',90/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,90,60
+Shima,20,1st,2nd,36 week,56 kg,5.1'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Shaima,19,1st,1st,30 week,60 kg,5.0'',100/70,None,None,Normal,Normal,125m,Medium,Yes,Negative,Negative,No,100,70
+Khaleda,25,1st,1st,30 week,65 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,90,60
+Rumana,24,1st,1st,35 week,55 kg,5.6'',100/60,Minimal,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,100,60
+Afsana,23,2nd,2nd,20 week,61 kg,5.3'',100/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,60
+Naima,18,1st,2nd,23 week,58 kg,5.4'',100/60,None,None,Normal,Normal,140m,Medium,Yes,Negative,Negative,Yes,100,60
+Shorna,20,1st,1st,28 week,56 kg,5.2'',110/80,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,Yes,110,80
+Tania Akter,19,1st,2nd,30 week,65 kg,5.3'',110/80,Medium,None,Normal,Normal,120m,None,No,Negative,Negative,No,110,80
+Forida,30,1st,1st,25 week,62 kg,5.2'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,90,60
+Shikha,23,1st,2nd,32 week,49 kg,5.0'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Runa,22,1st,3rd,25 week,45 kg,5.4'',110/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,110,60
+Shalekha,19,1st,2nd,26 week,50 kg,5.2'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,110,80
+Taslima,26,2nd,2nd,24 week,52 kg,5.1'',120/60,None,None,Normal,Normal,125m,Minimal,Yes,Positive,Negative,Yes,120,60
+Shumi,23,1st,3rd,23 week,63 kg,5.0'',80/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,80,60
+Rinu,25,1st,1st,24 week,60 kg,5.4'',110/60,None,None,Normal,Normal,150m,None,No,Positive,Negative,Yes,110,60
+Bina Akter,25,1st,1st,35 week,50 kg,5.3'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Kakoli,22,1st,2nd,38 week,60 kg,5.2'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,70
+Asmani,22,1st,1st,30 week,55 kg,5.3'',100/60,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,Yes,100,60
+Ruma,19,1st,3rd,35 week,51 kg,5.5'',110/65,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,65
+Kulsom,30,2nd,2nd,30 week,53 kg,5.4'',100/55,Minimal,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,55
+Nasima Akter,25,1st,1st,30 week,61 kg,5.5'',100/65,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,100,65
+Jannatul Ferdush,18,1st,2nd,35 week,55 kg,5.1'',120/60,None,None,Normal,Normal,120m,Medium,Yes,Negative,Negative,Yes,120,60
+Poli,25,1st,3rd,20 week,52 kg,5.0'',110/55,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,No,110,55
+Hamida,20,1st,2nd,23 week,53 kg,5.2'',90/60,Medium,None,Normal,Normal,125m,None,No,Negative,Negative,Yes,90,60
+Dilara,22,1st,2nd,28 week,51 kg,5.3'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Shikta,20,1st,1st,30 week,62 kg,5.2'',100/70,Medium,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,100,70
+Munni,22,1st,1st,25 week,58 kg,5.1'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,90,60
+Lima,20,2nd,1st,32 week,56 kg,5.0'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Riya,22,1st,2nd,25 week,60 kg,5.3'',100/60,None,None,Normal,Normal,130m,Minimal,Yes,Positive,Negative,No,100,60
+Shuma,32,1st,2nd,26 week,65 kg,5.6'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Positive,Yes,100,60
+Shetu Akter,21,1st,1st,24 week,55 kg,5.3'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Gulapi,23,1st,2nd,35 week,61 kg,5.4'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Kobita,24,1st,1st,38 week,58 kg,5.2'',90/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,90,60
+Morjina,20,1st,2nd,30 week,56 kg,5.3'',100/70,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,Yes,100,70
+Ashma,24,1st,3rd,35 week,65 kg,5.2'',110/60,None,None,Normal,Normal,125m,None,No,Positive,Negative,No,110,60
+Sheuli Akter,23,2nd,2nd,30 week,62 kg,5.0'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,110,80
+Asha,20,1st,2nd,30 week,49 kg,5.4'',120/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,120,60
+Sadia,30,1st,3rd,35 week,45 kg,5.2'',80/60,None,None,Normal,Normal,140m,Medium,Yes,Negative,Negative,No,80,60
+Boishakhi,20,1st,1st,20 week,50 kg,5.1'',110/60,None,None,Normal,Normal,140m,Higher,Yes,Positive,Positive,Yes,110,60
+Arjina,18,1st,1st,23 week,52 kg,5.0'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Easmin,26,1st,2nd,28 week,63 kg,5.4'',100/70,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,70
+Salma,24,1st,1st,30 week,60 kg,5.3'',100/60,None,None,Normal,Normal,140m,None,No,Negative,Negative,Yes,100,60
+Shahida,30,1st,3rd,25 week,50 kg,5.2'',110/65,Minimal,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Monjarin,24,2nd,2nd,32 week,60 kg,5.3'',100/55,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,55
+Shapla,19,1st,1st,25 week,55 kg,5.5'',100/65,None,None,Normal,Normal,130m,Minimal,Yes,Positive,Negative,Yes,100,65
+Ritu,22,1st,2nd,26 week,51 kg,5.4'',120/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,120,60
+Julekha,20,1st,3rd,24 week,53 kg,5.5'',110/55,Medium,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,55
+Nitu,22,1st,2nd,35 week,61 kg,5.1'',90/60,None,None,Normal,Normal,150m,None,Yes,Negative,Positive,Yes,90,60
+Pinky,21,1st,2nd,38 week,55 kg,5.0'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Kulsum,20,1st,1st,30 week,52 kg,5.2'',100/70,None,None,Normal,Normal,140m,Medium,Yes,Negative,Negative,No,100,70
+Nasima Akter,32,1st,1st,36 week,53 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,No,Positive,Negative,Yes,90,60
+Bina Akter,20,2nd,1st,30 week,51 kg,5.2'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Shantana,26,1st,2nd,30 week,62 kg,5.1'',100/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,60
+Shamima,21,1st,2nd,35 week,58 kg,5.0'',100/60,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,Yes,100,60
+Munni,27,1st,1st,20 week,56 kg,5.3'',110/80,None,None,Normal,Normal,120m,Higher,Yes,Positive,Negative,Yes,110,80
+Rubina,19,1st,2nd,23 week,60 kg,5.6'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Alisa,18,1st,1st,28 week,65 kg,5.3'',90/60,None,None,Normal,Normal,125m,None,Yes,Positive,Positive,Yes,90,60
+Mahofuja,26,1st,2nd,30 week,55 kg,5.4'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Maria Kobir,22,1st,3rd,25 week,61 kg,5.2'',110/60,Minimal,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,110,60
+Rasha,30,2nd,2nd,32 week,58 kg,5.3'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,110,80
+Sharhi,24,1st,2nd,25 week,56 kg,5.2'',120/60,None,None,Normal,Normal,140m,Minimal,Yes,Positive,Negative,Yes,120,60
+Monira,23,1st,3rd,26 week,65 kg,5.0'',80/60,None,None,Normal,Normal,130m,None,No,Negative,Negative,No,80,60
+Happy,23,1st,1st,24 week,62 kg,5.4'',110/60,Medium,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,60
+Parul,28,1st,1st,23 week,49 kg,5.2'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Benu,27,1st,2nd,24 week,45 kg,5.1'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Khadija,30,1st,1st,35 week,50 kg,5.0'',100/60,None,None,Normal,Normal,120m,Medium,Yes,Negative,Positive,Yes,100,60
+Sharmin Akter,21,2nd,3rd,38 week,52 kg,5.4'',110/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Shorna,19,1st,2nd,30 week,63 kg,5.3'',100/55,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,No,100,55
+Poli,25,1st,1st,35 week,60 kg,5.2'',100/65,None,None,Normal,Normal,130m,None,No,Positive,Negative,Yes,100,65
+Rumana,20,1st,2nd,30 week,50 kg,5.3'',120/60,None,None,Normal,Normal,150m,Medium,Yes,Negative,Negative,Yes,120,60
+Khadija,19,1st,3rd,30 week,60 kg,5.5'',110/55,None,None,Normal,Normal,140m,Higher,Yes,Positive,Negative,No,110,55
+Rituporna,23,1st,2nd,35 week,55 kg,5.4'',90/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,90,60
+Shikha,21,1st,2nd,20 week,51 kg,5.5'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Bristy,24,1st,1st,23 week,53 kg,5.1'',100/70,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,70
+Lamia,20,2nd,1st,28 week,61 kg,5.0'',90/60,Minimal,None,Normal,Normal,140m,None,Yes,Positive,Positive,Yes,90,60
+Shejuti,19,1st,1st,30 week,55 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Juti,25,1st,2nd,25 week,52 kg,5.3'',100/60,None,None,Normal,Normal,120m,Minimal,Yes,Positive,Negative,No,100,60
+Moina,24,1st,2nd,32 week,53 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,No,Negative,Negative,Yes,100,60
+Khuki,23,1st,1st,25 week,51 kg,5.1'',110/80,Medium,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,80
+Arifa,18,1st,2nd,26 week,62 kg,5.0'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Lima,20,1st,1st,24 week,58 kg,5.3'',90/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,90,60
+Fahima,19,1st,2nd,35 week,56 kg,5.6'',100/70,None,None,Normal,Normal,140m,Medium,Yes,Negative,Negative,Yes,100,70
+Rupshana,30,2nd,3rd,38 week,60 kg,5.3'',110/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,60
+Alpona Akter,23,1st,2nd,30 week,65 kg,5.4'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,110,80
+Kolpona,22,1st,2nd,35 week,55 kg,5.2'',120/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,120,60
+Jesmin,19,1st,3rd,30 week,61 kg,5.3'',80/60,None,None,Normal,Normal,140m,Medium,Yes,Negative,Negative,No,80,60
+Sharmin,26,1st,1st,30 week,58 kg,5.2'',110/60,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,Yes,110,60
+Laju,23,1st,1st,35 week,56 kg,5.0'',100/60,None,None,Abnormal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Khadija,25,1st,2nd,20 week,65 kg,5.4'',100/70,None,None,Normal,Normal,130m,None,No,Positive,Negative,No,100,70
+Kafia,25,1st,1st,23 week,62 kg,5.2'',100/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,60
+Nurnahar,22,2nd,3rd,28 week,49 kg,5.1'',110/65,Minimal,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+sumona,22,1st,2nd,30 week,45 kg,5.0'',100/55,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,100,55
+sathi,19,1st,1st,25 week,50 kg,5.4'',100/65,None,None,Normal,Normal,140m,Minimal,Yes,Positive,Positive,Yes,100,65
+Monira,30,1st,2nd,32 week,52 kg,5.3'',120/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,120,60
+Nabila,25,1st,3rd,25 week,63 kg,5.2'',110/55,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,55
+Ruma,18,1st,2nd,26 week,60 kg,5.3'',90/60,None,None,Normal,Normal,120m,None,No,Negative,Negative,Yes,90,60
+Arjina,25,1st,2nd,24 week,50 kg,5.5'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Jessy,20,1st,1st,35 week,60 kg,5.4'',100/70,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,No,100,70
+Kotha,22,2nd,1st,38 week,55 kg,5.5'',90/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,90,60
+Hashi,20,1st,1st,30 week,51 kg,5.1'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+sadia,22,1st,2nd,36 week,53 kg,5.0'',100/60,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,No,100,60
+Antora,20,1st,2nd,30 week,61 kg,5.2'',100/60,None,None,Normal,Normal,130m,Medium,Yes,Negative,Positive,Yes,100,60
+Shipu,22,1st,1st,30 week,55 kg,5.3'',110/80,None,None,Normal,Normal,150m,Higher,Yes,Positive,Negative,Yes,110,80
+Jesmin,32,1st,2nd,35 week,52 kg,5.2'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,110,80
+Kotha,21,1st,1st,20 week,53 kg,5.1'',90/60,None,None,Normal,Normal,140m,None,No,Positive,Negative,Yes,90,60
+Fatema,23,1st,2nd,23 week,51 kg,5.0'',100/70,Minimal,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Shima,24,2nd,3rd,28 week,62 kg,5.3'',110/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,110,60
+Niti,20,1st,2nd,30 week,58 kg,5.6'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,110,80
+Zinia,24,1st,2nd,25 week,56 kg,5.3'',120/60,None,None,Normal,Normal,130m,Minimal,Yes,Positive,Negative,Yes,120,60
+Arisha,23,1st,3rd,32 week,60 kg,5.4'',80/60,Medium,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,80,60
+Laisa,20,1st,1st,25 week,65 kg,5.2'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,110,60
+Flora,30,1st,1st,26 week,55 kg,5.3'',100/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,60
+Tania Tani,20,1st,2nd,24 week,61 kg,5.2'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Saima,18,2nd,1st,23 week,58 kg,5.0'',100/60,None,None,Normal,Normal,150m,Medium,Yes,Negative,Negative,Yes,100,60
+Bristi,26,1st,3rd,24 week,56 kg,5.4'',110/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,65
+Tasnim Jahan,24,1st,2nd,35 week,65 kg,5.2'',100/55,None,None,Normal,Normal,140m,None,No,Negative,Negative,No,100,55
+Ayat,30,1st,1st,38 week,62 kg,5.1'',100/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,100,65
+Maria Kabir,24,1st,2nd,30 week,49 kg,5.0'',120/60,None,None,Normal,Normal,120m,Medium,Yes,Negative,Negative,Yes,120,60
+Toma Rahoman,19,1st,3rd,35 week,45 kg,5.4'',110/55,None,None,Normal,Normal,140m,Higher,Yes,Positive,Negative,No,110,55
+Sworna,22,1st,2nd,30 week,50 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,90,60
+Fariya,20,1st,2nd,30 week,52 kg,5.2'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Parbin,22,2nd,1st,35 week,63 kg,5.3'',100/70,Minimal,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,70
+Oyshe,21,1st,1st,20 week,60 kg,5.5'',90/60,None,None,Normal,Normal,125m,None,No,Positive,Negative,Yes,90,60
+Mahjabin Kabir,20,1st,1st,23 week,50 kg,5.4'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Afrina,32,1st,2nd,28 week,60 kg,5.5'',100/60,None,None,Normal,Normal,150m,Minimal,Yes,Positive,Negative,No,100,60
+Mila,20,1st,2nd,30 week,55 kg,5.1'',100/60,Medium,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Rabeya,26,1st,1st,25 week,51 kg,5.0'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Marjina,21,1st,2nd,32 week,53 kg,5.2'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Kaniz,27,1st,1st,25 week,61 kg,5.3'',90/60,None,None,Normal,Normal,120m,None,Yes,Positive,Positive,Yes,90,60
+Swatsy Das,19,2nd,2nd,26 week,55 kg,5.2'',100/70,None,None,Normal,Normal,140m,Medium,Yes,Negative,Negative,Yes,100,70
+Fatema,18,1st,3rd,24 week,52 kg,5.1'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Sharmily,26,1st,2nd,35 week,53 kg,5.0'',110/80,None,None,Normal,Normal,120m,None,No,Negative,Negative,Yes,110,80
+Shusmita,22,1st,2nd,38 week,51 kg,5.3'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Priyanka,30,1st,3rd,30 week,62 kg,5.6'',80/60,None,None,Normal,Normal,125m,Medium,Yes,Negative,Negative,No,80,60
+Tuly,24,1st,1st,35 week,58 kg,5.3'',110/60,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,Yes,110,60
+Afrin Shultana,23,1st,1st,30 week,56 kg,5.4'',100/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,100,60
+Hasina Islam,23,1st,2nd,30 week,60 kg,5.2'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,70
+Era,28,2nd,1st,35 week,65 kg,5.3'',100/60,Minimal,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,100,60
+Fariha,27,1st,3rd,20 week,55 kg,5.2'',110/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Maliha,30,1st,2nd,23 week,61 kg,5.0'',100/55,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,55
+Sadia Islam,21,1st,1st,28 week,58 kg,5.4'',100/65,None,None,Normal,Normal,140m,Minimal,Yes,Positive,Negative,Yes,100,65
+Anika,19,1st,2nd,30 week,56 kg,5.2'',120/60,Medium,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Kobita,25,1st,3rd,25 week,65 kg,5.1'',110/55,None,None,Normal,Normal,120m,None,No,Positive,Negative,No,110,55
+Sheuli Akter,20,1st,2nd,32 week,62 kg,5.0'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,90,60
+Yeasmin Akter,19,1st,2nd,25 week,49 kg,5.4'',110/80,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,80
+Bipasha,23,2nd,1st,26 week,45 kg,5.3'',100/70,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,No,100,70
+Shabrina,21,1st,1st,24 week,50 kg,5.2'',90/60,None,None,Normal,Normal,150m,None,Yes,Positive,Positive,Yes,90,60
+Hashina,24,1st,1st,35 week,52 kg,5.3'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Miti,20,1st,2nd,38 week,63 kg,5.5'',100/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,60
+Mahomuda,19,1st,2nd,30 week,60 kg,5.4'',100/60,None,None,Normal,Normal,130m,Medium,No,Negative,Negative,Yes,100,60
+Shama Shaha,25,1st,1st,36 week,50 kg,5.5'',110/80,None,None,Normal,Normal,120m,Higher,Yes,Positive,Negative,Yes,110,80
+Jui,24,1st,2nd,30 week,60 kg,5.1'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,110,80
+Niroma,23,1st,1st,30 week,55 kg,5.0'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Othoy,18,2nd,2nd,35 week,51 kg,5.2'',100/70,Minimal,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,70
+Shakila,20,1st,3rd,20 week,53 kg,5.3'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Lija,19,1st,2nd,23 week,61 kg,5.2'',110/80,None,None,Normal,Normal,125m,None,Yes,Negative,Positive,Yes,110,80
+Tabassum,30,1st,2nd,28 week,55 kg,5.1'',120/60,None,None,Normal,Normal,130m,Minimal,Yes,Positive,Negative,Yes,120,60
+Samia Dwean,23,1st,3rd,30 week,52 kg,5.0'',80/60,Medium,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,80,60
+Jasia Marufa,22,1st,1st,25 week,53 kg,5.3'',110/60,None,None,Normal,Normal,140m,None,No,Positive,Negative,Yes,110,60
+Nitun Shaha,19,1st,1st,32 week,51 kg,5.6'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Jakea Islam,26,2nd,2nd,25 week,62 kg,5.3'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Shuriyea Jahan,23,1st,1st,26 week,58 kg,5.4'',100/60,None,None,Normal,Normal,120m,Medium,Yes,Negative,Negative,Yes,100,60
+Azmia Sristy,25,1st,3rd,24 week,56 kg,5.2'',110/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,65
+Fetama,25,1st,2nd,23 week,60 kg,5.3'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Mina,22,1st,1st,24 week,65 kg,5.2'',100/65,None,None,Normal,Normal,120m,None,Yes,Positive,Positive,Yes,100,65
+Tanzina,22,1st,2nd,35 week,55 kg,5.0'',120/60,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,Yes,120,60
+Rumana,19,1st,3rd,38 week,61 kg,5.4'',110/55,None,None,Normal,Normal,125m,Higher,Yes,Positive,Negative,No,110,55
+Kakoli,30,1st,2nd,30 week,58 kg,5.2'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,90,60
+Shila,25,2nd,2nd,35 week,56 kg,5.1'',110/80,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,110,80
+Afshana,18,1st,1st,30 week,65 kg,5.0'',100/70,Minimal,None,Normal,Normal,140m,None,No,Negative,Negative,No,100,70
+Tahomina,25,1st,1st,30 week,62 kg,5.4'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,90,60
+Labli,20,1st,1st,35 week,49 kg,5.3'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Juthi Akter,22,1st,2nd,20 week,45 kg,5.2'',100/60,None,Medium,Normal,Normal,120m,Minimal,Yes,Positive,Negative,No,100,60
+Asha,20,1st,2nd,23 week,50 kg,5.3'',100/60,Medium,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,100,60
+sathi,22,1st,1st,28 week,52 kg,5.5'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Monira,20,1st,2nd,30 week,63 kg,5.4'',110/80,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,110,80
+Nabila,22,2nd,1st,25 week,60 kg,5.5'',90/60,None,None,Normal,Normal,130m,None,No,Positive,Negative,Yes,90,60
+Ruma,32,1st,2nd,32 week,50 kg,5.1'',100/70,None,None,Normal,Normal,125m,Medium,Yes,Negative,Negative,Yes,100,70
+Arjina,21,1st,3rd,25 week,60 kg,5.0'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Jessy,23,1st,2nd,26 week,55 kg,5.2'',110/80,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,110,80
+Kotha,24,1st,2nd,24 week,51 kg,5.3'',120/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,120,60
+Hashi,20,1st,3rd,35 week,53 kg,5.2'',80/60,None,None,Normal,Normal,140m,Medium,Yes,Negative,Negative,No,80,60
+sadia,24,1st,1st,38 week,61 kg,5.1'',110/60,None,None,Normal,Normal,130m,Higher,Yes,Positive,Positive,Yes,110,60
+Antora,23,1st,1st,30 week,55 kg,5.0'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Shipu,20,2nd,2nd,35 week,52 kg,5.3'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,70
+Jesmin,30,1st,1st,30 week,53 kg,5.6'',100/60,Minimal,None,Normal,Normal,130m,None,No,Negative,Negative,Yes,100,60
+Kotha,20,1st,3rd,30 week,51 kg,5.3'',110/65,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,65
+Fatema,18,1st,2nd,35 week,62 kg,5.4'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Shima,26,1st,1st,20 week,58 kg,5.2'',100/65,None,None,Normal,Normal,125m,Minimal,Yes,Positive,Negative,Yes,100,65
+Niti,24,1st,2nd,23 week,56 kg,5.3'',120/60,Medium,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Zinia,30,1st,3rd,28 week,60 kg,5.2'',110/55,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,110,55
+Arisha,24,1st,2nd,30 week,65 kg,5.0'',90/60,None,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,90,60
+Laisa,19,2nd,2nd,25 week,55 kg,5.4'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Flora,22,1st,1st,32 week,61 kg,5.2'',100/70,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,No,100,70
+Shorna,20,1st,1st,25 week,58 kg,5.1'',90/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,90,60
+Tania Akter,22,1st,1st,26 week,56 kg,5.0'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Forida,21,1st,2nd,24 week,65 kg,5.4'',100/60,None,None,Normal,Normal,130m,None,No,Positive,Negative,No,100,60
+Shikha,20,1st,2nd,35 week,62 kg,5.3'',100/60,None,None,Normal,Normal,120m,Medium,Yes,Negative,Negative,Yes,100,60
+Runa,32,1st,1st,38 week,49 kg,5.2'',110/80,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,Yes,110,80
+Shalekha,20,1st,2nd,30 week,45 kg,5.3'',110/80,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,No,110,80
+Taslima,26,2nd,1st,36 week,50 kg,5.5'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,90,60
+Shumi,21,1st,2nd,30 week,52 kg,5.4'',100/70,Minimal,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,100,70
+Rinu,27,1st,3rd,30 week,63 kg,5.5'',110/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,60
+Bina Akter,19,1st,2nd,35 week,60 kg,5.1'',110/80,None,None,Normal,Normal,140m,None,No,Negative,Negative,Yes,110,80
+Kakoli,18,1st,2nd,20 week,50 kg,5.0'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Asmani,26,1st,3rd,23 week,60 kg,5.2'',80/60,Medium,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,80,60
+Ruma,22,1st,1st,28 week,55 kg,5.3'',110/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,60
+Kulsom,30,2nd,1st,30 week,51 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Nasima Akter,24,1st,2nd,25 week,53 kg,5.1'',100/70,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,70
+Jannatul Ferdush,23,1st,1st,32 week,61 kg,5.0'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,100,60
+Poli,23,1st,3rd,25 week,55 kg,5.3'',110/65,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,65
+Hamida,28,1st,2nd,26 week,52 kg,5.6'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Dilara,27,1st,1st,24 week,53 kg,5.3'',100/65,None,None,Normal,Normal,150m,None,No,Positive,Negative,Yes,100,65
+Rabeya,30,1st,2nd,23 week,51 kg,5.4'',120/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,120,60
+Rituporna,21,1st,3rd,24 week,62 kg,5.2'',110/55,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,55
+Shadikurnahar,19,2nd,2nd,35 week,58 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,90,60
+Shorna,25,1st,2nd,38 week,56 kg,5.2'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Shadia,20,1st,1st,30 week,60 kg,5.0'',100/70,Minimal,None,Normal,Normal,140m,Higher,Yes,Negative,Negative,No,100,70
+Asha,19,1st,1st,35 week,65 kg,5.4'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,90,60
+Sholema,23,1st,1st,30 week,55 kg,5.2'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Noyon Moni,21,1st,2nd,30 week,61 kg,5.1'',100/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,60
+Hashi,24,1st,2nd,35 week,58 kg,5.0'',100/60,Medium,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,60
+Naili,20,1st,1st,20 week,56 kg,5.4'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Firoja,19,2nd,2nd,23 week,65 kg,5.3'',110/80,None,None,Normal,Normal,150m,None,No,Negative,Negative,No,110,80
+Shurjina,25,1st,1st,28 week,62 kg,5.2'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,90,60
+Popi,24,1st,2nd,30 week,49 kg,5.3'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,70
+Gulapi,23,1st,3rd,25 week,45 kg,5.5'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Rumana,18,1st,2nd,32 week,50 kg,5.4'',110/80,None,None,Normal,Normal,120m,None,Yes,Negative,Positive,Yes,110,80
+Khadija,20,1st,2nd,25 week,52 kg,5.5'',120/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,120,60
+Sharmin,19,1st,3rd,26 week,63 kg,5.1'',80/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,80,60
+Shuva,30,1st,1st,24 week,60 kg,5.0'',110/60,None,None,Normal,Normal,120m,None,No,Positive,Negative,Yes,110,60
+Ruksana,23,2nd,1st,35 week,50 kg,5.2'',100/60,None,None,Normal,Normal,130m,Minimal,Yes,Negative,Negative,Yes,100,60
+Maria,22,1st,2nd,38 week,60 kg,5.3'',100/70,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,No,100,70
+Shipu,19,1st,1st,30 week,55 kg,5.2'',100/60,Minimal,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Bithi,26,1st,3rd,35 week,51 kg,5.1'',110/65,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,110,65
+Shimu,23,1st,2nd,30 week,53 kg,5.0'',100/55,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,55
+Kulshum,25,1st,1st,30 week,61 kg,5.3'',100/65,None,None,Normal,Normal,140m,None,Yes,Positive,Positive,Yes,100,65
+Tania Akter,25,1st,2nd,35 week,55 kg,5.6'',120/60,Medium,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Jorna,22,1st,3rd,20 week,52 kg,5.3'',110/55,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,110,55
+Rumi,22,2nd,2nd,23 week,53 kg,5.4'',90/60,None,None,Normal,Normal,140m,None,No,Negative,Negative,Yes,90,60
+Amina,19,1st,2nd,28 week,51 kg,5.2'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Anjuman,30,1st,1st,30 week,62 kg,5.3'',100/70,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,70
+Konika,25,1st,1st,25 week,58 kg,5.2'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Tanjin,18,1st,1st,32 week,56 kg,5.0'',100/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,60
+Mithila,25,1st,2nd,25 week,60 kg,5.4'',100/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,60
+Eti,20,1st,2nd,26 week,65 kg,5.2'',100/60,None,None,Normal,Normal,150m,None,Yes,Negative,Positive,Yes,100,60
+Shantana,22,1st,1st,24 week,55 kg,5.1'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Jannatul,20,2nd,2nd,35 week,61 kg,5.0'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,110,80
+Rushoni Akter,22,1st,1st,38 week,58 kg,5.4'',90/60,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,Yes,90,60
+Runa,20,1st,2nd,30 week,56 kg,5.3'',100/70,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,70
+Nurjahan,22,1st,3rd,36 week,65 kg,5.2'',110/60,None,None,Normal,Normal,140m,None,No,Positive,Negative,No,110,60
+Rupali,32,1st,2nd,30 week,62 kg,5.3'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,110,80
+Rujina Akter,21,1st,2nd,30 week,49 kg,5.5'',120/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,120,60
+Rotna,23,1st,3rd,35 week,45 kg,5.4'',80/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,80,60
+Asia,24,2nd,1st,20 week,50 kg,5.5'',110/60,None,None,Normal,Normal,125m,None,Yes,Positive,Positive,Yes,110,60
+Ayesha,20,1st,1st,23 week,52 kg,5.1'',100/60,Minimal,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Morsheda,24,1st,2nd,28 week,63 kg,5.0'',100/70,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,100,70
+Khadija,23,1st,1st,30 week,60 kg,5.2'',100/60,None,None,Normal,Normal,140m,None,No,Negative,Negative,Yes,100,60
+Lacky,20,1st,3rd,25 week,50 kg,5.3'',110/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,65
+Ruksana,30,1st,2nd,32 week,60 kg,5.2'',100/55,Medium,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Lubna,20,1st,1st,25 week,55 kg,5.1'',100/65,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,100,65
+Laisa,18,1st,2nd,26 week,51 kg,5.0'',120/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,120,60
+Afroz,26,2nd,3rd,24 week,53 kg,5.3'',110/55,None,None,Normal,Normal,130m,Minimal,Yes,Positive,Negative,No,110,55
+Takia,24,1st,2nd,23 week,61 kg,5.6'',90/60,None,None,Normal,Normal,120m,None,Yes,Negative,Positive,Yes,90,60
+Mahomuda,30,1st,2nd,24 week,55 kg,5.3'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Rajia Khatun,24,1st,1st,35 week,52 kg,5.4'',100/70,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,No,100,70
+Shamshurnahar,19,1st,1st,38 week,53 kg,5.2'',90/60,None,None,Normal,Normal,130m,None,No,Positive,Negative,Yes,90,60
+Khadija Akter,22,1st,1st,30 week,51 kg,5.3'',100/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,100,60
+Runa,20,1st,2nd,35 week,62 kg,5.2'',100/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,60
+Junaki,22,1st,2nd,30 week,58 kg,5.0'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Shonda,21,2nd,1st,30 week,56 kg,5.4'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Jesmin,20,1st,2nd,35 week,60 kg,5.2'',110/80,Minimal,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,110,80
+Shahonaj,32,1st,1st,20 week,65 kg,5.1'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Positive,Yes,90,60
+Beuty,20,1st,2nd,23 week,55 kg,5.0'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Shumi Akter,26,1st,3rd,28 week,61 kg,5.4'',110/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,110,60
+Jorfuli,21,1st,2nd,30 week,58 kg,5.3'',110/80,Medium,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,110,80
+Smrity,27,1st,2nd,25 week,56 kg,5.2'',120/60,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,120,60
+Rabeya,19,1st,3rd,32 week,65 kg,5.3'',80/60,None,None,Normal,Normal,130m,None,No,Negative,Negative,No,80,60
+Rituporna,18,2nd,1st,25 week,62 kg,5.5'',110/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,110,60
+Shadikurnahar,26,1st,1st,26 week,49 kg,5.4'',100/60,None,None,Normal,Normal,140m,Higher,Yes,Negative,Negative,Yes,100,60
+Shorna,22,1st,2nd,24 week,45 kg,5.5'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,70
+Shadia,30,1st,1st,35 week,50 kg,5.1'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,100,60
+Asha,24,1st,3rd,38 week,52 kg,5.0'',110/65,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,65
+Sholema,23,1st,2nd,30 week,63 kg,5.2'',100/55,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,55
+Noyon Moni,23,1st,1st,35 week,60 kg,5.3'',100/65,None,None,Normal,Normal,130m,None,No,Positive,Negative,Yes,100,65
+Hashi,28,1st,2nd,30 week,50 kg,5.2'',120/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,120,60
+Naili,27,2nd,3rd,30 week,60 kg,5.1'',110/55,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,55
+Firoja,30,1st,2nd,35 week,55 kg,5.0'',90/60,Minimal,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,90,60
+Shurjina,21,1st,2nd,20 week,51 kg,5.3'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Popi,19,1st,1st,23 week,53 kg,5.6'',100/70,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,100,70
+Gulapi,25,1st,1st,28 week,61 kg,5.3'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Positive,Yes,90,60
+Rumana,20,1st,1st,30 week,55 kg,5.4'',100/60,Medium,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Khadija,19,1st,2nd,25 week,52 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,60
+Sharmin,23,1st,2nd,32 week,53 kg,5.3'',100/60,None,None,Normal,Normal,120m,Minimal,No,Negative,Negative,Yes,100,60
+Shuva,21,2nd,1st,25 week,51 kg,5.2'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Ruksana,24,1st,2nd,26 week,62 kg,5.0'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Maria,20,1st,1st,24 week,58 kg,5.4'',90/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,90,60
+Shipu,19,1st,2nd,35 week,56 kg,5.2'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Bithi,25,1st,3rd,38 week,60 kg,5.1'',110/60,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,No,110,60
+Shimu,24,1st,2nd,30 week,65 kg,5.0'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,110,80
+Kulshum,23,1st,2nd,36 week,55 kg,5.4'',120/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,120,60
+Tania Akter,18,2nd,3rd,30 week,61 kg,5.3'',80/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,80,60
+Jorna,20,1st,1st,30 week,58 kg,5.2'',110/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,60
+Rumi,19,1st,1st,35 week,56 kg,5.3'',100/60,Minimal,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Amina,30,1st,2nd,20 week,65 kg,5.5'',100/70,None,None,Normal,Normal,120m,None,No,Positive,Negative,No,100,70
+Anjuman,23,1st,1st,23 week,62 kg,5.4'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Konika,22,1st,3rd,28 week,49 kg,5.5'',110/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Tanjin,19,1st,2nd,30 week,45 kg,5.1'',100/55,Medium,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,55
+Mithila,26,1st,1st,25 week,50 kg,5.0'',100/65,None,Minimal,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,100,65
+Eti,23,2nd,2nd,32 week,52 kg,5.2'',120/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,120,60
+Shantana,25,1st,3rd,25 week,63 kg,5.3'',110/55,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,No,110,55
+Jannatul,25,1st,2nd,26 week,60 kg,5.2'',90/60,None,None,Normal,Normal,150m,None,No,Negative,Negative,Yes,90,60
+Rushoni Akter,22,1st,2nd,24 week,50 kg,5.1'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Runa,22,1st,1st,23 week,60 kg,5.0'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,70
+Nurjahan,19,1st,1st,24 week,55 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Rupali,30,1st,1st,35 week,51 kg,5.6'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Rujina Akter,25,1st,2nd,38 week,53 kg,5.3'',100/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,60
+Rotna,18,2nd,2nd,30 week,61 kg,5.4'',100/60,None,None,Abnormal,Normal,130m,None,Yes,Negative,Positive,Yes,100,60
+Asia,25,1st,1st,35 week,55 kg,5.2'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Ayesha,20,1st,2nd,30 week,52 kg,5.3'',110/80,Minimal,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Morsheda,22,1st,1st,30 week,53 kg,5.2'',90/60,None,None,Normal,Normal,125m,None,No,Positive,Negative,Yes,90,60
+Khadija,20,1st,2nd,35 week,51 kg,5.0'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Lacky,22,1st,3rd,20 week,62 kg,5.4'',110/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,110,60
+Ruksana,20,1st,2nd,23 week,58 kg,5.2'',110/80,Medium,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,110,80
+Lubna,22,1st,2nd,28 week,56 kg,5.1'',120/60,None,None,Normal,Normal,140m,Minimal,Yes,Positive,Negative,Yes,120,60
+Laisa,32,2nd,3rd,30 week,60 kg,5.0'',80/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,80,60
+Afroz,21,1st,1st,25 week,65 kg,5.4'',110/60,None,None,Normal,Normal,120m,None,Yes,Positive,Positive,Yes,110,60
+Takia,23,1st,1st,32 week,55 kg,5.3'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Mahomuda,24,1st,2nd,25 week,61 kg,5.2'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Rajia Khatun,20,1st,1st,26 week,58 kg,5.3'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Shamshurnahar,24,1st,3rd,24 week,56 kg,5.5'',110/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Khadija Akter,23,1st,2nd,35 week,65 kg,5.4'',100/55,None,None,Normal,Normal,125m,None,No,Negative,Negative,No,100,55
+Runa,20,1st,1st,38 week,62 kg,5.5'',100/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,100,65
+Junaki,30,2nd,2nd,30 week,49 kg,5.1'',120/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,120,60
+Shonda,20,1st,3rd,35 week,45 kg,5.0'',110/55,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,55
+Jesmin,18,1st,2nd,30 week,50 kg,5.2'',90/60,Minimal,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,90,60
+Shahonaj,26,1st,2nd,30 week,52 kg,5.3'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Beuty,24,1st,1st,35 week,63 kg,5.2'',100/70,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,70
+Shumi Akter,30,1st,1st,20 week,60 kg,5.1'',90/60,None,None,Normal,Normal,140m,None,No,Positive,Negative,Yes,90,60
+Jorfuli,24,1st,1st,23 week,50 kg,5.0'',100/60,Medium,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Smrity,19,1st,2nd,28 week,60 kg,5.3'',100/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,60
+Rabeya,22,2nd,2nd,30 week,55 kg,5.6'',100/60,None,None,Normal,Normal,130m,Higher,Yes,Negative,Negative,Yes,100,60
+Rituporna,20,1st,1st,25 week,51 kg,5.3'',110/80,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,80
+Shadikurnahar,22,1st,2nd,32 week,53 kg,5.4'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Shorna,21,1st,1st,25 week,61 kg,5.2'',90/60,None,None,Normal,Normal,150m,None,Yes,Positive,Positive,Yes,90,60
+Shadia,20,1st,2nd,26 week,55 kg,5.3'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,70
+Asha,32,1st,3rd,24 week,52 kg,5.2'',110/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,60
+Sholema,20,1st,2nd,35 week,53 kg,5.0'',110/80,None,None,Normal,Normal,130m,None,No,Negative,Negative,Yes,110,80
+Noyon Moni,26,2nd,2nd,38 week,51 kg,5.4'',120/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,120,60
+Hashi,21,1st,3rd,30 week,62 kg,5.2'',80/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,80,60
+Naili,27,1st,1st,36 week,58 kg,5.1'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,60
+Firoja,19,1st,1st,30 week,56 kg,5.0'',100/60,Minimal,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Shurjina,18,1st,2nd,30 week,60 kg,5.4'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Popi,26,1st,1st,35 week,65 kg,5.3'',100/60,None,None,Normal,Normal,125m,None,Yes,Negative,Positive,Yes,100,60
+Gulapi,22,1st,3rd,20 week,55 kg,5.2'',110/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Rumana,30,1st,2nd,23 week,61 kg,5.3'',100/55,Medium,None,Normal,Normal,150m,Minimal,Yes,Negative,Negative,No,100,55
+Khadija,24,2nd,1st,28 week,58 kg,5.5'',100/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,100,65
+Sharmin,23,1st,2nd,30 week,56 kg,5.4'',120/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,120,60
+Shuva,23,1st,3rd,25 week,65 kg,5.5'',110/55,None,None,Normal,Normal,130m,None,No,Positive,Negative,No,110,55
+Ruksana,28,1st,2nd,32 week,62 kg,5.1'',90/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,90,60
+Maria,27,1st,2nd,25 week,49 kg,5.0'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Shipu,30,1st,1st,26 week,45 kg,5.2'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,70
+Bithi,21,1st,1st,24 week,50 kg,5.3'',90/60,None,None,Normal,Normal,120m,None,Yes,Positive,Positive,Yes,90,60
+Shimu,19,1st,1st,23 week,52 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Kulshum,25,2nd,2nd,24 week,63 kg,5.1'',100/60,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,No,100,60
+Tania Akter,20,1st,2nd,35 week,60 kg,5.0'',100/60,None,None,Normal,Normal,130m,None,No,Negative,Negative,Yes,100,60
+Jorna,19,1st,1st,38 week,50 kg,5.3'',110/80,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,110,80
+Rumi,23,1st,2nd,30 week,60 kg,5.6'',110/80,Minimal,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,110,80
+Amina,21,1st,1st,35 week,55 kg,5.3'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,90,60
+Anjuman,24,1st,2nd,30 week,51 kg,5.4'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Konika,20,1st,3rd,30 week,53 kg,5.2'',110/60,None,None,Normal,Normal,120m,Higher,Yes,Positive,Negative,No,110,60
+Tanjin,19,1st,2nd,35 week,61 kg,5.3'',110/80,Medium,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,110,80
+Mithila,25,2nd,2nd,20 week,55 kg,5.2'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Eti,24,1st,3rd,23 week,52 kg,5.0'',80/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,80,60
+Shantana,23,1st,1st,28 week,53 kg,5.4'',110/60,None,None,Normal,Normal,130m,None,No,Positive,Negative,Yes,110,60
+Jannatul,18,1st,1st,30 week,51 kg,5.2'',100/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,60
+Rushoni Akter,20,1st,2nd,25 week,62 kg,5.1'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Runa,19,1st,1st,32 week,58 kg,5.0'',100/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,100,60
+Nurjahan,30,1st,3rd,25 week,56 kg,5.4'',110/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,65
+Rupali,23,1st,2nd,26 week,60 kg,5.3'',100/55,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,55
+Rujina Akter,22,2nd,1st,24 week,65 kg,5.2'',100/65,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,100,65
+Rotna,19,1st,2nd,35 week,55 kg,5.3'',120/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,120,60
+Asia,26,1st,3rd,38 week,61 kg,5.5'',110/55,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,55
+Ayesha,23,1st,2nd,30 week,58 kg,5.4'',90/60,Minimal,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,90,60
+Morsheda,25,1st,2nd,35 week,56 kg,5.5'',110/80,None,None,Normal,Normal,120m,Minimal,Yes,Positive,Negative,Yes,110,80
+Khadija,25,1st,1st,30 week,65 kg,5.1'',100/70,None,None,Normal,Normal,130m,None,No,Negative,Negative,No,100,70
+Lacky,22,1st,1st,30 week,62 kg,5.0'',90/60,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,90,60
+Ruksana,22,1st,1st,35 week,49 kg,5.2'',100/60,Medium,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Lubna,19,1st,2nd,20 week,45 kg,5.3'',100/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,100,60
+Laisa,30,2nd,2nd,23 week,50 kg,5.2'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,100,60
+Afroz,25,1st,1st,28 week,52 kg,5.1'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Takia,18,1st,2nd,30 week,63 kg,5.0'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Mahomuda,25,1st,1st,25 week,60 kg,5.3'',90/60,None,None,Normal,Normal,120m,None,No,Positive,Negative,Yes,90,60
+Rajia Khatun,20,1st,2nd,32 week,50 kg,5.6'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,70
+Shamshurnahar,22,1st,3rd,25 week,60 kg,5.3'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Khadija Akter,20,2nd,2nd,26 week,55 kg,5.4'',110/80,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,110,80
+Runa,22,1st,2nd,24 week,51 kg,5.2'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Junaki,20,1st,3rd,35 week,53 kg,5.3'',80/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,No,80,60
+Shonda,22,1st,1st,38 week,61 kg,5.2'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,110,60
+Jesmin,32,3rd,1st,30 week,55 kg,5.0'',100/60,Minimal,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,100,60
+Shahonaj,21,1st,2nd,36 week,52 kg,5.4'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,70
+Beuty,23,1st,1st,30 week,53 kg,5.2'',100/60,None,None,Normal,Normal,140m,Higher,No,Negative,Negative,Yes,100,60
+Shumi Akter,24,1st,3rd,30 week,51 kg,5.1'',110/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Jorfuli,20,2nd,2nd,35 week,62 kg,5.0'',100/55,Medium,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,55
+Smrity,24,1st,1st,20 week,58 kg,5.4'',100/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,100,65
+Tasnim,23,1st,2nd,23 week,56 kg,5.3'',120/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Moriom,20,1st,3rd,28 week,60 kg,5.2'',110/55,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,110,55
+Momtas,30,1st,2nd,30 week,65 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,90,60
+Riya,20,1st,2nd,25 week,55 kg,5.5'',110/80,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,80
+Tumpa,18,1st,1st,32 week,61 kg,5.4'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,70
+Alia,26,1st,1st,25 week,58 kg,5.5'',90/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,90,60
+Nadia,24,2nd,1st,26 week,56 kg,5.1'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Eayasmin,30,2nd,2nd,24 week,65 kg,5.0'',100/60,None,None,Normal,Normal,140m,None,No,Positive,Negative,No,100,60
+Shultana,24,1st,2nd,23 week,62 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Husnera,19,1st,1st,24 week,49 kg,5.3'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Shapla,22,1st,2nd,35 week,45 kg,5.2'',110/80,Minimal,None,Normal,Normal,140m,Minimal,Yes,Negative,Negative,No,110,80
+Taslima,20,1st,1st,38 week,50 kg,5.1'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,90,60
+Tumpa,22,1st,2nd,30 week,52 kg,5.0'',100/70,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,70
+Tania Akter,21,1st,3rd,35 week,63 kg,5.3'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Shompa,20,2nd,2nd,30 week,60 kg,5.6'',110/80,Medium,None,Normal,Normal,125m,None,No,Negative,Negative,Yes,110,80
+Shahida,32,1st,2nd,30 week,50 kg,5.3'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Bonna,20,1st,3rd,35 week,60 kg,5.4'',80/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,80,60
+Sadia,26,1st,1st,20 week,55 kg,5.2'',110/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,60
+Morjina,21,1st,1st,23 week,51 kg,5.3'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Shobuja,27,1st,2nd,28 week,53 kg,5.2'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Shafi,19,1st,1st,30 week,61 kg,5.0'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Positive,Yes,100,60
+Asma,18,1st,3rd,25 week,55 kg,5.4'',110/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,65
+Roshida,26,2nd,2nd,32 week,52 kg,5.2'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Eayasmin,22,1st,1st,25 week,53 kg,5.1'',100/65,None,None,Normal,Normal,120m,None,No,Positive,Negative,Yes,100,65
+Uzzola,30,1st,2nd,26 week,51 kg,5.0'',120/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Husnera,24,1st,3rd,24 week,62 kg,5.4'',110/55,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,No,110,55
+Shakila,23,1st,2nd,35 week,58 kg,5.3'',90/60,Minimal,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,90,60
+Sabina,23,1st,2nd,38 week,56 kg,5.2'',110/80,None,None,Normal,Normal,150m,Higher,Yes,Positive,Negative,Yes,110,80
+Chadni,28,1st,1st,30 week,60 kg,5.3'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,70
+Laboni,27,1st,1st,35 week,65 kg,5.5'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Positive,Yes,90,60
+Priya,30,2nd,1st,30 week,55 kg,5.4'',100/60,Medium,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Shumi,21,1st,2nd,30 week,61 kg,5.5'',100/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,60
+Khadija,19,1st,2nd,35 week,58 kg,5.1'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Shumaiya,25,1st,1st,20 week,56 kg,5.0'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Shumi,20,1st,2nd,23 week,65 kg,5.2'',110/80,None,None,Normal,Normal,120m,None,No,Negative,Negative,No,110,80
+Bina,19,1st,1st,28 week,62 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Khaleda,23,1st,2nd,30 week,49 kg,5.2'',100/70,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,70
+Halima,21,2nd,3rd,25 week,45 kg,5.1'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Lipi,24,1st,2nd,32 week,50 kg,5.0'',110/80,None,None,Normal,Normal,150m,None,Yes,Negative,Positive,Yes,110,80
+Laboni,20,1st,2nd,25 week,52 kg,5.3'',120/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,120,60
+Roshida,19,1st,3rd,26 week,63 kg,5.6'',80/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,80,60
+Shamshurnahar,25,1st,1st,24 week,60 kg,5.3'',110/60,None,None,Normal,Normal,130m,Minimal,No,Positive,Negative,Yes,110,60
+Rekha,24,1st,1st,35 week,50 kg,5.4'',100/60,Minimal,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Rotna,23,1st,2nd,38 week,60 kg,5.2'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,70
+Shuhana,18,1st,1st,30 week,55 kg,5.3'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Shetu,20,2nd,3rd,36 week,51 kg,5.2'',110/65,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,65
+Shahida,19,1st,2nd,30 week,53 kg,5.0'',100/55,Medium,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Anju,30,1st,1st,30 week,61 kg,5.4'',100/65,None,None,Normal,Normal,125m,None,Yes,Positive,Positive,Yes,100,65
+Sharmin,23,1st,2nd,35 week,55 kg,5.2'',120/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Lacky,22,1st,3rd,20 week,52 kg,5.1'',110/55,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,110,55
+Shonda,19,1st,2nd,23 week,53 kg,5.0'',90/60,None,None,Normal,Normal,140m,None,No,Negative,Negative,Yes,90,60
+Arifa,26,1st,2nd,28 week,51 kg,5.4'',110/80,None,Medium,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Tammna,23,1st,1st,30 week,62 kg,5.3'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,70
+Ashma,25,2nd,1st,25 week,58 kg,5.2'',90/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,90,60
+Monika,25,1st,1st,32 week,56 kg,5.3'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Rupshi,22,1st,2nd,25 week,60 kg,5.5'',100/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,60
+Hasina,22,1st,2nd,26 week,65 kg,5.4'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Positive,Yes,100,60
+Shabana,19,1st,1st,24 week,55 kg,5.5'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Khaleda,30,1st,2nd,23 week,61 kg,5.1'',110/80,Minimal,None,Normal,Normal,125m,Higher,Yes,Negative,Negative,No,110,80
+Khuki,25,1st,1st,24 week,58 kg,5.0'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Zunaki,18,1st,2nd,35 week,56 kg,5.2'',100/70,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,100,70
+Mim,25,2nd,3rd,38 week,65 kg,5.3'',110/60,None,None,Normal,Normal,140m,None,No,Positive,Negative,No,110,60
+Mayabi,20,1st,2nd,30 week,62 kg,5.2'',110/80,Medium,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,110,80
+Shajeda,22,1st,2nd,35 week,49 kg,5.1'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Bipesha,20,1st,3rd,30 week,45 kg,5.0'',80/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,80,60
+Hejara,22,1st,1st,30 week,50 kg,5.3'',110/60,None,None,Normal,Normal,140m,None,Yes,Positive,Positive,Yes,110,60
+Rina,20,1st,1st,35 week,52 kg,5.6'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Rani,22,1st,2nd,20 week,63 kg,5.3'',100/70,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,70
+Shefali,32,1st,1st,23 week,60 kg,5.4'',100/60,None,None,Normal,Normal,130m,None,No,Negative,Negative,Yes,100,60
+Rotna,21,2nd,3rd,28 week,50 kg,5.2'',110/65,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,65
+Mariha,23,1st,2nd,30 week,60 kg,5.3'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Takia,24,1st,1st,25 week,55 kg,5.2'',100/65,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,100,65
+Ratri,20,1st,2nd,32 week,51 kg,5.0'',120/60,None,None,Normal,Normal,140m,Minimal,Yes,Negative,Negative,Yes,120,60
+Jui,24,1st,3rd,25 week,53 kg,5.4'',110/55,None,Minimal,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,55
+Noyon moni,23,1st,2nd,26 week,61 kg,5.2'',90/60,Minimal,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,90,60
+Ashma,20,1st,2nd,24 week,55 kg,5.1'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Moriom,30,2nd,1st,35 week,52 kg,5.0'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,70
+Shaila,20,2nd,1st,38 week,53 kg,5.4'',90/60,None,None,Normal,Normal,130m,None,No,Positive,Negative,Yes,90,60
+Alpona,18,1st,1st,30 week,51 kg,5.3'',100/60,Medium,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Konika,26,1st,2nd,35 week,62 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,60
+Zulekha,24,1st,2nd,30 week,58 kg,5.3'',100/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,60
+Labli,30,1st,1st,30 week,56 kg,5.5'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Moina,24,1st,2nd,35 week,60 kg,5.4'',110/80,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,110,80
+Purnima,19,1st,1st,20 week,65 kg,5.5'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Positive,Yes,90,60
+Kolpona,22,2nd,2nd,23 week,55 kg,5.1'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,70
+Hashi,20,1st,3rd,28 week,61 kg,5.0'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Nargis,22,1st,2nd,30 week,58 kg,5.2'',110/80,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,110,80
+Fahima,21,1st,2nd,25 week,56 kg,5.3'',120/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,120,60
+Aklima,20,1st,3rd,32 week,65 kg,5.2'',80/60,None,None,Normal,Normal,130m,None,No,Negative,Negative,No,80,60
+Hafsa,32,1st,1st,25 week,62 kg,5.1'',110/60,None,None,Normal,Normal,120m,Higher,Yes,Positive,Negative,Yes,110,60
+Lamia,20,1st,1st,26 week,49 kg,5.0'',100/60,Minimal,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Antora,26,1st,2nd,24 week,45 kg,5.3'',100/70,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,No,100,70
+Rani,21,2nd,1st,35 week,50 kg,5.6'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,100,60
+Shikha,27,1st,3rd,38 week,52 kg,5.3'',110/65,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,110,65
+Runa,19,1st,2nd,30 week,63 kg,5.4'',100/55,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,55
+Kolpona,18,1st,1st,36 week,60 kg,5.2'',100/65,None,None,Normal,Normal,140m,None,No,Positive,Negative,Yes,100,65
+Rotna,26,1st,2nd,30 week,50 kg,5.3'',120/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Shilpi,22,1st,3rd,30 week,60 kg,5.2'',110/55,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,110,55
+Khushi,30,1st,2nd,35 week,55 kg,5.0'',90/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,90,60
+Rasheda,24,1st,2nd,20 week,51 kg,5.4'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Arifa,23,2nd,1st,23 week,53 kg,5.2'',100/70,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,70
+Shima,23,1st,1st,28 week,61 kg,5.1'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,90,60
+Laju,28,2nd,1st,30 week,55 kg,5.0'',100/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,60
+Jesmin,27,2nd,2nd,25 week,52 kg,5.4'',100/60,None,None,Normal,Normal,130m,Minimal,Yes,Positive,Negative,No,100,60
+juti,30,2nd,2nd,32 week,53 kg,5.3'',100/60,None,None,Normal,Normal,150m,None,No,Negative,Negative,Yes,100,60
+Munni,21,1st,1st,25 week,51 kg,5.2'',110/80,Minimal,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Shultana,19,1st,2nd,26 week,62 kg,5.3'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,110,80
+Laisa,25,1st,1st,24 week,58 kg,5.5'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Arisha,20,2nd,2nd,23 week,56 kg,5.4'',100/70,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,70
+Jannat,19,1st,3rd,24 week,60 kg,5.5'',110/60,Medium,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,60
+Shabuja,23,1st,2nd,35 week,65 kg,5.1'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,110,80
+Monika,21,1st,2nd,38 week,55 kg,5.0'',120/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,120,60
+Farjana,24,1st,3rd,30 week,61 kg,5.2'',80/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,80,60
+Riva,20,1st,1st,35 week,58 kg,5.3'',110/60,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,60
+Kolpona,19,1st,1st,30 week,56 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Sharmin,25,1st,2nd,30 week,65 kg,5.1'',100/70,None,None,Normal,Normal,150m,None,No,Positive,Negative,No,100,70
+Shadia,24,2nd,1st,35 week,62 kg,5.0'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Momota,23,1st,3rd,20 week,49 kg,5.3'',110/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,65
+Helana,18,1st,2nd,23 week,45 kg,5.6'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Tammna,20,1st,1st,28 week,50 kg,5.3'',100/65,None,None,Normal,Normal,120m,None,Yes,Positive,Positive,Yes,100,65
+Misty,19,1st,2nd,30 week,52 kg,5.4'',120/60,None,None,Normal,Normal,140m,Higher,Yes,Negative,Negative,Yes,120,60
+Bristy,30,1st,3rd,25 week,63 kg,5.2'',110/55,Minimal,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,55
+Ashma,23,1st,2nd,32 week,60 kg,5.3'',90/60,None,None,Normal,Normal,120m,None,No,Negative,Negative,Yes,90,60
+Shahanaj,22,1st,2nd,25 week,50 kg,5.2'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Ruksana,19,2nd,1st,26 week,60 kg,5.0'',100/70,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,No,100,70
+Rehena,26,1st,1st,24 week,55 kg,5.4'',90/60,Medium,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Rakhi,23,1st,1st,35 week,51 kg,5.2'',100/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,100,60
+Runa,25,1st,2nd,38 week,53 kg,5.1'',100/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,60
+Antora,25,1st,2nd,30 week,61 kg,5.0'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,100,60
+Shipu,22,1st,1st,35 week,55 kg,5.4'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Jesmin,22,1st,2nd,30 week,52 kg,5.3'',110/80,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,110,80
+Kotha,19,1st,1st,30 week,53 kg,5.2'',90/60,None,None,Normal,Normal,140m,None,No,Positive,Negative,Yes,90,60
+Fatema,30,2nd,2nd,35 week,51 kg,5.3'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Shima,25,1st,3rd,20 week,62 kg,5.5'',110/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,110,60
+Niti,18,1st,2nd,23 week,58 kg,5.4'',110/80,None,None,Normal,Normal,130m,Minimal,Yes,Negative,Negative,Yes,110,80
+Zinia,25,1st,2nd,28 week,56 kg,5.5'',120/60,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,120,60
+Arisha,20,1st,3rd,30 week,60 kg,5.1'',80/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,80,60
+Laisa,22,1st,1st,25 week,65 kg,5.0'',110/60,Minimal,None,Normal,Normal,150m,None,Yes,Positive,Positive,Yes,110,60
+Flora,20,1st,1st,32 week,55 kg,5.2'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Shorna,22,2nd,2nd,25 week,61 kg,5.3'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,70
+Tania Akter,20,1st,1st,26 week,58 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Forida,22,1st,3rd,24 week,56 kg,5.1'',110/65,Medium,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,65
+Shikha,32,1st,2nd,35 week,65 kg,5.0'',100/55,None,None,Normal,Normal,140m,None,No,Negative,Negative,No,100,55
+Runa,21,1st,1st,38 week,62 kg,5.3'',100/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,100,65
+Shalekha,23,1st,2nd,30 week,49 kg,5.6'',120/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,120,60
+Taslima,24,1st,3rd,36 week,45 kg,5.3'',110/55,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,55
+Shumi,20,1st,2nd,30 week,50 kg,5.4'',90/60,None,None,Normal,Normal,125m,None,Yes,Negative,Positive,Yes,90,60
+Rinu,24,2nd,2nd,30 week,52 kg,5.2'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Bina Akter,23,1st,1st,35 week,63 kg,5.3'',100/70,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,100,70
+Kakoli,20,1st,1st,20 week,60 kg,5.2'',90/60,None,None,Normal,Normal,140m,None,No,Positive,Negative,Yes,90,60
+Asmani,30,1st,1st,23 week,50 kg,5.0'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Ruma,20,1st,2nd,28 week,60 kg,5.4'',100/60,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,No,100,60
+Kulsom,18,1st,2nd,30 week,55 kg,5.2'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Nasima Akter,26,1st,1st,25 week,51 kg,5.1'',110/80,Minimal,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Jannatul Ferdush,24,1st,2nd,32 week,53 kg,5.0'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Poli,30,2nd,1st,25 week,61 kg,5.4'',90/60,None,None,Normal,Normal,120m,None,Yes,Positive,Positive,Yes,90,60
+Hamida,24,1st,2nd,26 week,55 kg,5.3'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Dilara,19,1st,3rd,24 week,52 kg,5.2'',110/60,Medium,None,Normal,Normal,125m,None,Yes,Positive,Negative,No,110,60
+Rabeya,22,1st,2nd,23 week,53 kg,5.3'',110/80,None,None,Normal,Normal,130m,None,No,Negative,Negative,Yes,110,80
+Rituporna,20,1st,2nd,24 week,51 kg,5.5'',120/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,120,60
+Shadikurnahar,22,1st,3rd,35 week,62 kg,5.4'',80/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,80,60
+Shorna,21,1st,1st,38 week,58 kg,5.5'',110/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,60
+Shadia,20,1st,1st,30 week,56 kg,5.1'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Asha,32,2nd,2nd,35 week,60 kg,5.0'',100/70,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,70
+Sholema,20,1st,1st,30 week,65 kg,5.2'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,100,60
+Popi,26,1st,3rd,30 week,55 kg,5.3'',110/65,None,None,Normal,Normal,130m,Minimal,Yes,Positive,Negative,Yes,110,65
+Soniya,21,1st,2nd,35 week,61 kg,5.2'',100/55,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,55
+Rupali,27,1st,1st,20 week,58 kg,5.1'',100/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,100,65
+Mafia,19,1st,2nd,23 week,56 kg,5.0'',120/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,120,60
+Naima,18,1st,3rd,28 week,65 kg,5.3'',110/55,Minimal,None,Normal,Normal,130m,None,No,Positive,Negative,No,110,55
+Antora,26,1st,2nd,30 week,62 kg,5.6'',90/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,90,60
+Arjina,22,2nd,2nd,25 week,49 kg,5.3'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Jushna,30,2nd,1st,32 week,45 kg,5.4'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,70
+Hashi,24,1st,1st,25 week,50 kg,5.2'',90/60,Medium,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,90,60
+Pori Moni,23,1st,1st,26 week,52 kg,5.3'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Tania,23,1st,2nd,24 week,63 kg,5.2'',100/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,60
+Kajoli,28,1st,2nd,35 week,60 kg,5.0'',100/60,None,None,Normal,Normal,130m,None,No,Negative,Negative,Yes,100,60
+Sharmin,27,1st,1st,38 week,50 kg,5.4'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Shamoli,30,2nd,2nd,30 week,60 kg,5.2'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Mukta,21,1st,1st,35 week,55 kg,5.1'',90/60,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,90,60
+Shahonaj,19,1st,2nd,30 week,51 kg,5.0'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Rasha,25,1st,3rd,30 week,53 kg,5.4'',110/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,110,60
+Monira ,20,1st,2nd,35 week,61 kg,5.3'',110/80,None,None,Normal,Normal,140m,Higher,Yes,Negative,Positive,Yes,110,80
+Parul,19,1st,2nd,20 week,55 kg,5.2'',120/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,120,60
+Urmi,23,1st,3rd,23 week,52 kg,5.3'',80/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,80,60
+Jannat,21,1st,1st,28 week,53 kg,5.5'',110/60,Minimal,None,Normal,Normal,120m,None,No,Positive,Negative,Yes,110,60
+Lubna,24,2nd,1st,30 week,51 kg,5.4'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Eti,20,1st,2nd,25 week,62 kg,5.5'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Fatema,19,1st,1st,32 week,58 kg,5.1'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Shefali,25,1st,3rd,25 week,56 kg,5.0'',110/65,Medium,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Kulsum,24,1st,2nd,26 week,60 kg,5.2'',100/55,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,No,100,55
+Swety,23,1st,1st,24 week,65 kg,5.3'',100/65,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,100,65
+Lija,18,1st,2nd,35 week,55 kg,5.2'',120/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,120,60
+Shrabonti,20,1st,3rd,38 week,61 kg,5.1'',110/55,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,55
+Shumi,19,1st,2nd,30 week,58 kg,5.0'',90/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,90,60
+Munni,30,2nd,2nd,36 week,56 kg,5.3'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Rabeya,23,1st,1st,30 week,65 kg,5.6'',100/70,None,None,Normal,Normal,120m,Minimal,No,Negative,Negative,No,100,70
+Farjana,22,1st,1st,30 week,62 kg,5.3'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,90,60
+Mukta,19,1st,1st,35 week,49 kg,5.4'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Asha,26,1st,2nd,20 week,45 kg,5.2'',100/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,60
+Khudeja,23,1st,2nd,23 week,50 kg,5.3'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,100,60
+Shormili,25,1st,1st,28 week,52 kg,5.2'',110/80,Minimal,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,80
+Afroz,25,2nd,2nd,30 week,63 kg,5.0'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,80
+Takia,22,1st,1st,25 week,60 kg,5.4'',90/60,None,None,Normal,Normal,150m,None,No,Positive,Negative,Yes,90,60
+Hena,22,1st,2nd,32 week,50 kg,5.2'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,70
+Banesa,19,1st,3rd,25 week,60 kg,5.1'',110/60,Medium,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,60
+Mimi,30,1st,2nd,26 week,55 kg,5.0'',110/80,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,110,80
+Shahida,25,1st,2nd,24 week,51 kg,5.4'',120/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,120,60
+Shompa,18,1st,3rd,23 week,53 kg,5.3'',80/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,80,60
+Rotna,25,1st,1st,24 week,61 kg,5.2'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,110,60
+Moina,20,2nd,1st,35 week,55 kg,5.3'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Shuhagi,22,1st,2nd,38 week,52 kg,5.5'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Kakoli,20,1st,1st,30 week,53 kg,5.4'',100/60,None,None,Normal,Normal,125m,None,No,Negative,Negative,Yes,100,60
+Antora,22,1st,3rd,35 week,51 kg,5.5'',110/65,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,Yes,110,65
+Shufia,20,1st,2nd,30 week,62 kg,5.1'',100/55,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,100,55
+Shalma,22,1st,1st,30 week,58 kg,5.0'',100/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,100,65
+Alia,32,1st,2nd,35 week,56 kg,5.2'',120/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,120,60
+Hamida,21,1st,3rd,20 week,60 kg,5.3'',110/55,Minimal,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,55
+Nurbanu,23,2nd,2nd,23 week,65 kg,5.2'',90/60,None,None,Normal,Normal,120m,None,Yes,Negative,Positive,Yes,90,60
+Nahida,24,1st,2nd,28 week,55 kg,5.1'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Shumaya,20,1st,1st,30 week,61 kg,5.0'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,70
+Sadia,24,1st,1st,25 week,58 kg,5.3'',90/60,Medium,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,90,60
+Shanti,23,1st,1st,32 week,56 kg,5.6'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Reshma,20,1st,2nd,25 week,65 kg,5.3'',100/60,None,None,Normal,Normal,125m,None,No,Positive,Negative,No,100,60
+Fatema,30,1st,2nd,26 week,62 kg,5.4'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Runa,20,2nd,1st,24 week,49 kg,5.2'',110/80,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,110,80
+Rani,18,1st,2nd,35 week,45 kg,5.3'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,110,80
+zumor,26,1st,1st,38 week,50 kg,5.2'',90/60,None,None,Normal,Normal,140m,Minimal,Yes,Positive,Positive,Yes,90,60
+Jessy,24,1st,2nd,30 week,52 kg,5.0'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Bristy,30,1st,3rd,35 week,63 kg,5.4'',110/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,110,60
+Asma,24,1st,2nd,30 week,60 kg,5.2'',110/80,None,None,Normal,Normal,140m,None,No,Negative,Negative,Yes,110,80
+Mitu,19,1st,2nd,30 week,50 kg,5.1'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Kulsum,22,1st,3rd,35 week,60 kg,5.0'',80/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,80,60
+Fatema,20,2nd,1st,20 week,55 kg,5.4'',110/60,Minimal,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,60
+Alpona,22,1st,1st,23 week,51 kg,5.3'',100/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,60
+Konika,21,1st,2nd,28 week,53 kg,5.2'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Zulekha,20,1st,1st,30 week,61 kg,5.3'',100/60,None,None,Normal,Normal,150m,None,Yes,Negative,Positive,Yes,100,60
+Labli,32,1st,3rd,25 week,55 kg,5.5'',110/65,Medium,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,65
+Moina,20,1st,2nd,32 week,52 kg,5.4'',100/55,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,55
+Purnima,26,1st,1st,25 week,53 kg,5.5'',100/65,None,None,Normal,Normal,130m,None,No,Positive,Negative,Yes,100,65
+Kolpona,21,1st,2nd,26 week,51 kg,5.1'',120/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,120,60
+Hashi,27,2nd,3rd,24 week,62 kg,5.0'',110/55,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,55
+Nargis,19,1st,2nd,35 week,58 kg,5.2'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,90,60
+Fahima,18,1st,2nd,38 week,56 kg,5.3'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Aklima,26,1st,1st,30 week,60 kg,5.2'',100/70,None,None,Normal,Normal,130m,Higher,Yes,Negative,Negative,No,100,70
+Hafsa,22,1st,1st,36 week,65 kg,5.1'',90/60,None,None,Normal,Normal,125m,None,Yes,Positive,Positive,Yes,90,60
+Lamia,30,1st,1st,30 week,55 kg,5.0'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Antora,24,1st,2nd,30 week,61 kg,5.3'',100/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,100,60
+Rani,23,1st,2nd,35 week,58 kg,5.6'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Shikha,23,2nd,1st,20 week,56 kg,5.3'',110/80,Minimal,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Runa,28,1st,2nd,23 week,65 kg,5.4'',110/80,None,None,Normal,Normal,130m,None,No,Negative,Negative,No,110,80
+Kolpona,27,1st,1st,28 week,62 kg,5.2'',90/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,90,60
+Rotna,30,1st,2nd,30 week,49 kg,5.3'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,70
+Shilpi,21,1st,3rd,25 week,45 kg,5.2'',110/60,Medium,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Khushi,19,1st,2nd,32 week,50 kg,5.0'',110/80,None,None,Normal,Normal,120m,None,Yes,Negative,Positive,Yes,110,80
+Rasheda,25,1st,2nd,25 week,52 kg,5.4'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Arifa,20,1st,3rd,26 week,63 kg,5.2'',80/60,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,No,80,60
+Shima,19,2nd,1st,24 week,60 kg,5.1'',110/60,None,None,Normal,Normal,130m,None,No,Positive,Negative,Yes,110,60
+Laju,23,1st,1st,23 week,50 kg,5.0'',100/60,None,None,Normal,Normal,150m,Minimal,Yes,Negative,Negative,Yes,100,60
+Jesmin,21,1st,2nd,24 week,60 kg,5.4'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,70
+juti,24,1st,1st,35 week,55 kg,5.3'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Munni,20,1st,3rd,38 week,51 kg,5.2'',110/65,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,65
+Shultana,19,1st,2nd,30 week,53 kg,5.3'',100/55,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,55
+Laisa,25,1st,1st,35 week,61 kg,5.5'',100/65,None,None,Normal,Normal,140m,None,Yes,Positive,Positive,Yes,100,65
+Arisha,24,1st,2nd,30 week,55 kg,5.4'',120/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Jannat,23,2nd,3rd,30 week,52 kg,5.5'',110/55,Minimal,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,110,55
+Shabuja,18,1st,2nd,35 week,53 kg,5.1'',90/60,None,None,Normal,Normal,130m,None,No,Negative,Negative,Yes,90,60
+Monika,20,1st,2nd,20 week,51 kg,5.0'',110/80,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,80
+Farjana,19,1st,1st,23 week,62 kg,5.2'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,70
+Riva,30,1st,1st,28 week,58 kg,5.3'',90/60,Medium,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,90,60
+Kolpona,23,1st,1st,30 week,56 kg,5.2'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Sharmin,22,1st,2nd,25 week,60 kg,5.1'',100/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,60
+Shadia,19,2nd,2nd,32 week,65 kg,5.0'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,100,60
+Momota,26,1st,1st,25 week,55 kg,5.3'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Helana,23,1st,2nd,26 week,61 kg,5.6'',110/80,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,110,80
+Tammna,25,1st,1st,24 week,58 kg,5.3'',90/60,None,None,Normal,Normal,130m,Higher,Yes,Positive,Negative,Yes,90,60
+Misty,25,1st,2nd,35 week,56 kg,5.4'',100/70,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,70
+Bristy,22,1st,3rd,38 week,65 kg,5.2'',110/60,None,None,Normal,Normal,130m,None,No,Positive,Negative,No,110,60
+Ashma,22,1st,2nd,30 week,62 kg,5.3'',110/80,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,110,80
+Shahanaj,19,1st,2nd,35 week,49 kg,5.2'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Ruksana,30,2nd,3rd,30 week,45 kg,5.0'',80/60,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,80,60
+Rehena,25,1st,1st,30 week,50 kg,5.4'',110/60,Minimal,None,Normal,Normal,140m,None,Yes,Positive,Positive,Yes,110,60
+Rakhi,18,1st,1st,35 week,52 kg,5.2'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Runa,25,1st,2nd,20 week,63 kg,5.1'',100/70,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,70
+Antora,20,1st,1st,23 week,60 kg,5.0'',100/60,None,None,Normal,Normal,120m,None,No,Negative,Negative,Yes,100,60
+Shipu,22,1st,3rd,28 week,50 kg,5.4'',110/65,Medium,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,65
+Jesmin,20,1st,2nd,30 week,60 kg,5.3'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Kotha,22,1st,1st,25 week,55 kg,5.2'',100/65,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,100,65
+Fatema,20,2nd,2nd,32 week,51 kg,5.3'',120/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Shima,22,1st,3rd,25 week,53 kg,5.5'',110/55,None,None,Normal,Normal,125m,Minimal,Yes,Positive,Negative,No,110,55
+Niti,32,1st,2nd,26 week,61 kg,5.4'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,90,60
+Zinia,21,1st,2nd,24 week,55 kg,5.5'',110/80,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,110,80
+Arisha,23,1st,1st,35 week,52 kg,5.1'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,70
+Laisa,24,1st,1st,38 week,53 kg,5.0'',90/60,None,None,Normal,Normal,140m,None,No,Positive,Negative,Yes,90,60
+Flora,20,1st,1st,30 week,51 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Shorna,24,1st,2nd,36 week,62 kg,5.3'',100/60,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,60
+Tania Akter,23,2nd,2nd,30 week,58 kg,5.2'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Forida,20,1st,1st,30 week,56 kg,5.1'',110/80,Minimal,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Shikha,30,1st,2nd,35 week,60 kg,5.0'',110/80,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,110,80
+Runa,20,1st,1st,20 week,65 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Positive,Yes,90,60
+Shalekha,18,1st,2nd,23 week,55 kg,5.6'',100/70,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,100,70
+Taslima,26,1st,3rd,28 week,61 kg,5.3'',110/60,Medium,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Shumi,24,1st,2nd,30 week,58 kg,5.4'',110/80,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,110,80
+Nirroma,30,1st,2nd,25 week,56 kg,5.2'',120/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,120,60
+Kafia,24,2nd,3rd,32 week,65 kg,5.3'',80/60,None,None,Normal,Normal,140m,None,No,Negative,Negative,No,80,60
+Happy,19,1st,1st,25 week,62 kg,5.2'',110/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,60
+Shabana,22,1st,1st,26 week,49 kg,5.0'',100/60,None,None,Normal,Normal,120m,Higher,Yes,Negative,Negative,Yes,100,60
+Sabina,20,1st,2nd,24 week,45 kg,5.4'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,100,70
+Shajeda,22,1st,1st,23 week,50 kg,5.2'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Positive,Yes,100,60
+Rina,21,1st,3rd,24 week,52 kg,5.1'',110/65,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,65
+Ayesha,20,1st,2nd,35 week,63 kg,5.0'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Ruma,32,1st,1st,38 week,60 kg,5.4'',100/65,None,Medium,Normal,Normal,125m,None,No,Positive,Negative,Yes,100,65
+Rumi,20,2nd,2nd,30 week,50 kg,5.3'',120/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Shuhana,26,1st,3rd,35 week,60 kg,5.2'',110/55,Minimal,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,110,55
+Shejuti,21,1st,2nd,30 week,55 kg,5.3'',90/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,90,60
+Gulapi,27,1st,2nd,30 week,51 kg,5.5'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,80
+Maysha,19,1st,1st,35 week,53 kg,5.4'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,70
+Jannat,18,1st,1st,20 week,61 kg,5.5'',90/60,Medium,None,Normal,Normal,120m,None,Yes,Positive,Positive,Yes,90,60
+Aklima,26,1st,1st,23 week,55 kg,5.1'',100/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,60
+Popi,22,2nd,2nd,28 week,52 kg,5.0'',100/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,100,60
+Lima,30,1st,2nd,30 week,53 kg,5.2'',100/60,None,None,Normal,Normal,120m,Minimal,No,Negative,Negative,Yes,100,60
+Selina,24,1st,1st,25 week,51 kg,5.3'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Jesmin,23,1st,2nd,32 week,62 kg,5.2'',110/80,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,No,110,80
+Happy,23,1st,1st,25 week,58 kg,5.1'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Afroza,28,1st,2nd,26 week,56 kg,5.0'',100/70,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,Yes,100,70
+Rina,27,1st,3rd,24 week,60 kg,5.3'',110/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,60
+Moriom,30,1st,2nd,35 week,65 kg,5.6'',110/80,None,None,Normal,Normal,140m,Higher,Yes,Negative,Positive,Yes,110,80
+Mimi,21,2nd,2nd,38 week,55 kg,5.3'',120/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,120,60
+Shahera,19,1st,3rd,30 week,61 kg,5.4'',80/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,80,60
+Asia Jannat,25,1st,1st,35 week,58 kg,5.2'',110/60,Minimal,None,Normal,Normal,140m,None,No,Positive,Negative,Yes,110,60
+Shefali,20,1st,1st,30 week,56 kg,5.3'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Monjura,19,1st,2nd,30 week,65 kg,5.2'',100/70,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,No,100,70
+Shamima,23,1st,1st,35 week,62 kg,5.0'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Shakila,21,1st,3rd,20 week,49 kg,5.4'',110/65,Medium,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,110,65
+Shamira,24,1st,2nd,23 week,45 kg,5.2'',100/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,100,55
+Sokina,20,2nd,1st,28 week,50 kg,5.1'',100/65,None,None,Normal,Normal,150m,None,Yes,Positive,Positive,Yes,100,65
+Shikha,19,1st,2nd,30 week,52 kg,5.0'',120/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,120,60
+Shuma,25,1st,3rd,25 week,63 kg,5.4'',110/55,None,None,Normal,Normal,140m,Higher,Yes,Positive,Negative,No,110,55
+Kotha,24,1st,2nd,32 week,60 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,90,60
+Nupur,23,1st,2nd,25 week,61 kg,5.2'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Nurnahar,18,1st,1st,26 week,58 kg,5.3'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,70
+Helena,20,1st,1st,24 week,56 kg,5.5'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Rashda,19,1st,1st,35 week,65 kg,5.4'',100/60,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,100,60
+Rajmiri,30,2nd,2nd,38 week,62 kg,5.5'',100/60,None,None,Normal,Normal,130m,None,No,Positive,Negative,No,100,60
+Shumaya,23,1st,2nd,30 week,49 kg,5.1'',100/60,None,None,Normal,Normal,125m,None,Yes,Negative,Positive,Yes,100,60
+Ayesha,22,1st,1st,36 week,45 kg,5.0'',110/80,Minimal,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Rubina,19,1st,2nd,30 week,50 kg,5.2'',110/80,None,None,Normal,Normal,150m,None,Yes,Negative,Negative,No,110,80
+Rupali,26,1st,1st,30 week,52 kg,5.3'',90/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,90,60
+Rupa,23,1st,2nd,35 week,61 kg,5.2'',100/70,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,Yes,100,70
+Monika,25,1st,3rd,20 week,58 kg,5.1'',110/60,Medium,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,110,60
+Tinni,25,1st,2nd,23 week,56 kg,5.0'',110/80,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,110,80
+Pinky,22,2nd,2nd,28 week,65 kg,5.3'',120/60,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,120,60
+Jahanera,22,1st,3rd,30 week,62 kg,5.6'',80/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,80,60
+Taslima,19,1st,1st,25 week,49 kg,5.3'',110/60,None,None,Normal,Normal,120m,None,Yes,Positive,Positive,Yes,110,60
+Anuwara,30,1st,1st,32 week,45 kg,5.4'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Hajera,25,1st,2nd,25 week,50 kg,5.2'',100/70,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,No,100,70
+Shultana,24,1st,1st,26 week,52 kg,5.1'',100/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,60
+Era,23,1st,3rd,24 week,61 kg,5.0'',110/65,None,None,Normal,Normal,150m,None,No,Positive,Negative,Yes,110,65
+Afrina,18,1st,2nd,23 week,58 kg,5.4'',100/55,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,100,55
+Shabuja,20,2nd,1st,26 week,56 kg,5.3'',100/65,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,100,65
+Panti,19,1st,2nd,24 week,65 kg,5.2'',120/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,120,60
+Alia,30,2nd,3rd,35 week,62 kg,5.3'',110/55,Minimal,None,Normal,Normal,120m,Higher,Yes,Positive,Negative,No,110,55
+Mimi,23,1st,2nd,38 week,49 kg,5.5'',90/60,None,None,Normal,Normal,140m,None,Yes,Negative,Positive,Yes,90,60
+Najma,22,1st,2nd,30 week,45 kg,5.4'',110/80,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,110,80
+Farida,19,1st,1st,36 week,50 kg,5.5'',100/70,None,None,Normal,Normal,120m,None,Yes,Negative,Negative,No,100,70
+Nahida,26,1st,1st,30 week,52 kg,5.1'',90/60,Medium,None,Normal,Normal,130m,None,Yes,Positive,Negative,Yes,90,60
+Fatema,23,2nd,1st,30 week,61 kg,5.0'',110/55,None,None,Normal,Normal,125m,None,Yes,Negative,Negative,Yes,110,55
+Rekha Moni,25,1st,2nd,35 week,58 kg,5.2'',90/60,None,None,Normal,Normal,130m,None,Yes,Positive,Negative,No,90,60
+Farjana,25,1st,2nd,20 week,56 kg,5.3'',110/80,None,None,Abnormal,Normal,150m,None,Yes,Negative,Negative,Yes,110,80
+Shapla,22,1st,1st,23 week,65 kg,5.2'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,100,70
+Shanjida,22,1st,2nd,28 week,62 kg,5.1'',90/60,None,None,Normal,Normal,140m,None,Yes,Negative,Negative,No,90,60
+Shilpi,19,1st,1st,30 week,49 kg,5.0'',110/55,None,None,Normal,Normal,130m,None,No,Positive,Positive,Yes,110,55
+Rotna,30,2nd,2nd,25 week,45 kg,5.3'',90/60,None,Medium,Normal,Normal,120m,None,Yes,Negative,Negative,Yes,90,60
+Maisha,25,1st,3rd,32 week,50 kg,5.6'',110/80,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,No,110,80
+Shornali,24,2nd,2nd,25 week,52 kg,5.3'',100/70,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,100,70
+Hajera,23,1st,1st,26 week,61 kg,5.4'',90/60,None,None,Normal,Normal,120m,Minimal,Yes,Positive,Negative,Yes,90,60
+Priya,18,1st,1st,24 week,58 kg,5.2'',110/55,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,110,55
+Parvin,20,1st,1st,23 week,56 kg,5.2'',90/60,Minimal,None,Normal,Normal,125m,None,Yes,Positive,Negative,Yes,90,60
+Jesmin,19,1st,2nd,36 week,65 kg,5.1'',110/80,None,None,Normal,Normal,130m,None,No,Negative,Negative,Yes,110,80
+Hashi,30,3rd,2nd,30 week,62 kg,5.0'',100/70,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,No,100,70
+Shalma,23,1st,1st,30 week,49 kg,5.3'',90/60,None,None,Normal,Normal,140m,Medium,Yes,Negative,Negative,Yes,90,60
+Lija,22,1st,2nd,35 week,45 kg,5.6'',110/55,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,110,55
+Ayesha,19,1st,1st,20 week,50 kg,5.3'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,No,90,60
+Rabeya,26,2nd,2nd,36 week,52 kg,5.2'',110/80,None,None,Normal,Normal,120m,None,Yes,Positive,Negative,Yes,110,80
+Benu,23,1st,3rd,30 week,49 kg,5.1'',100/70,None,None,Normal,Normal,130m,Medium,Yes,Negative,Negative,Yes,100,70
+Fahima,25,2nd,2nd,30 week,45 kg,5.0'',90/60,None,None,Normal,Normal,125m,None,Yes,Positive,Negative,No,90,60
+Konika,25,1st,1st,35 week,50 kg,5.3'',110/55,None,Minimal,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,110,55
+Rekha,22,1st,1st,20 week,49 kg,5.6'',90/60,None,None,Normal,Normal,150m,None,Yes,Positive,Negative,Yes,90,60
+Akhi Moni,22,1st,2nd,30 week,45 kg,5.3'',110/80,None,None,Abnormal,Normal,140m,None,Yes,Negative,Negative,No,110,80
+Puja,19,1st,3rd,30 week,50 kg,5.2'',100/70,None,None,Normal,Normal,140m,None,Yes,Positive,Negative,Yes,100,70
+Shabnur,30,2nd,2nd,30 week,49 kg,5.1'',90/60,None,None,Normal,Normal,130m,None,Yes,Negative,Negative,Yes,90,60
+Tayba,25,1st,1st,30 week,45 kg,5.0'',90/60,None,None,Abnormal,Normal,120m,None,Yes,Positive,Negative,Yes,90,60
