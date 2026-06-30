@@ -1,4 +1,4 @@
-# Maternal Health EDA
+### Maternal Health EDA
 
 Exploratory Data Analysis on a maternal health dataset originally recorded in Bengali. This project covers data cleaning, translation, feature engineering, and multiple analysis tracks to identify risk factors in pregnancy.
 
@@ -38,8 +38,8 @@ Exploratory Data Analysis on a maternal health dataset originally recorded in Be
 
 ## Analyses
 
-### 1. Data Cleaning & Initial EDA (`test.py`)
-## Data Cleaning Steps
+# 1. Data Cleaning & Initial EDA (`test.py`)
+# Data Cleaning Steps
 The raw dataset presented two key challenges before any analysis could begin:
 
 # Language barrier
@@ -48,7 +48,7 @@ All column names were in Bengali. Rather than renaming them manually, deep_trans
 Several columns stored data as formatted strings rather than numbers. Blood pressure was recorded as "120/80", weight as "50 kg", height as "5.2''", and gravida as ordinal text like "1st" or "2nd". Each required custom parsing before they could be used in calculations.
 
 No missing values were found across all 998 rows and 18 columns.
-## Feature Engineering
+# Feature Engineering
 Two new clinical features were derived from the raw data:
 
 # Mean Arterial Pressure (MAP)
@@ -56,7 +56,7 @@ Calculated using the standard clinical formula: MAP = (Systolic + 2 × Diastolic
 # Numerical Gravida
 Extracted from ordinal strings (e.g. "1st" → 1) using regex, enabling gravida to be used as a numerical feature in grouping and correlation analyses.
 
-## Visualisations
+# Visualisations
 # Plot 1 : Distribution of Mean Arterial Pressure (MAP) by Risk Group
 The boxplot reveals a clear upward shift in MAP for the risky pregnancy group compared to the non-risky group:
 
