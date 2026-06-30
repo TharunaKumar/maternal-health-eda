@@ -39,12 +39,37 @@ Exploratory Data Analysis on a maternal health dataset originally recorded in Be
 ## Analyses
 
 ### 1. Data Cleaning & Initial EDA (`test.py`)
-- Translates Bengali column names to English using Google Translate via `deep_translator`
-- Parses blood pressure strings (e.g. `"120/80"`) into systolic and diastolic components
-- Computes **Mean Arterial Pressure (MAP)**: `(Systolic + 2 × Diastolic) / 3`
-- Extracts numerical gravida from ordinal strings (e.g. `"1st"` → `1`)
-- Plots MAP distribution and anemia severity by risk group
+## Data Cleaning Steps
+The raw dataset presented two key challenges before any analysis could begin:
 
+# Language barrier
+All column names were in Bengali. Rather than renaming them manually, deep_translator was used to automatically translate each column name to English via Google Translate, then convert the result to snake_case for clean programmatic access.
+# Unstructured fields
+Several columns stored data as formatted strings rather than numbers. Blood pressure was recorded as "120/80", weight as "50 kg", height as "5.2''", and gravida as ordinal text like "1st" or "2nd". Each required custom parsing before they could be used in calculations.
+
+No missing values were found across all 998 rows and 18 columns.
+## Feature Engineering
+Two new clinical features were derived from the raw data:
+
+# Mean Arterial Pressure (MAP)
+Calculated using the standard clinical formula: MAP = (Systolic + 2 × Diastolic) / 3. MAP is a more stable measure of perfusion pressure than systolic BP alone and is widely used in obstetric risk assessment.
+# Numerical Gravida
+Extracted from ordinal strings (e.g. "1st" → 1) using regex, enabling gravida to be used as a numerical feature in grouping and correlation analyses.
+
+## Visualisations
+# Plot 1 : Distribution of Mean Arterial Pressure (MAP) by Risk Group
+The boxplot reveals a clear upward shift in MAP for the risky pregnancy group compared to the non-risky group:
+
+The risky group has a median MAP of approximately 77 mmHg, with an IQR between ~74–80 mmHg and a narrow overall spread (whiskers between ~70–90 mmHg).
+The non-risky group has a lower median MAP of approximately 73 mmHg, a wider IQR (~70–80 mmHg), and a longer lower whisker extending down to ~65 mmHg, indicating greater variability among lower-risk patients.
+The tighter, higher distribution in the risky group suggests that elevated MAP is a consistent characteristic of risky pregnancies, rather than an occasional outlier effect, making it a strong candidate feature for predictive modelling.
+
+# Plot 2 : Anemia Severity vs Pregnancy Risk
+The countplot breaks down anemia status across both risk groups:
+
+The majority of patients fall into the None category (~580 risky, ~290 non-risky), reflecting an overall 2:1 class imbalance in the dataset.
+For both Minimal and Medium anemia categories, the ~2:1 risky-to-non-risky ratio holds, with roughly 45 risky vs 20 non-risky patients in each.
+The consistent ratio across all anemia categories suggests that anemia severity alone does not meaningfully increase pregnancy risk beyond the baseline rate.
 ### 2. Risk Factor Deep-Dive (`risk_factor_analysis.py`)
 - Analyses co-occurrence of anemia and high BP with risky pregnancy
 - Evaluates VDRL, HRsAG, jaundice severity, and fetal position as risk indicators
