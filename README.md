@@ -55,20 +55,6 @@ Calculated using the standard formula: MAP = (Systolic + 2 × Diastolic) / 3. MA
 ##### Numerical Gravida
 Extracted from ordinal strings (e.g. "1st" → 1) using regex, enabling gravida to be used as a numerical feature in grouping and correlation analyses.
 
-#### Visualisations
-##### Plot 1 : Distribution of Mean Arterial Pressure (MAP) by Risk Group
-The boxplot shows an upward shift in MAP for the risky pregnancy group compared to the non-risky group:
-
-The risky group has a median MAP of approximately 77 mmHg, with an IQR between ~74–80 mmHg and a narrow overall spread.
-The non-risky group has a lower median MAP of approximately 73 mmHg, a wider IQR (~70–80 mmHg), indicating greater variability among lower-risk patients.
-The tighter, higher distribution in the risky group suggests that elevated MAP is a consistent characteristic of risky pregnancies.
-
-##### Plot 2 : Anemia Severity vs Pregnancy Risk
-The countplot breaks down anemia status across both risk groups:
-
-The majority of patients fall into the None category (~580 risky, ~290 non-risky), which shows an overall 2:1 class imbalance in the dataset.
-For both Minimal and Medium anemia categories, the ~2:1 risky-to-non-risky ratio is still there, with roughly 45 risky vs 20 non-risky patients in each.
-The consistent ratio across all anemia categories suggests that anemia severity alone does not meaningfully increase pregnancy risk beyond the baseline rate.
 ### 2. Risk Factor Analysis (`risk_factor_analysis.py`)
 #### Overview
 This analysis investigates how individual and combined clinical risk factors relate to pregnancy risk classification. Five plots examine blood pressure, anemia, MAP, jaundice, and fetal position as potential indicators of risk.
