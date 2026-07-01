@@ -72,6 +72,8 @@ The vast majority of patients (330 non-risky, 662 risky) have a Normal fetal pos
 Only 6 patients have an Abnormal fetal position (2 non-risky, 4 risky), making it difficult to perform analysis.
 Abnormal fetal position is in this dataset is not a useful risk indicator.
 
+![Risk Factor Analysis](outputs/risk_factor_analysis.png)
+
 ### 3. Correlation & Multivariate Analysis (`correlation_analysis.py`)
 #### Overview
 This analysis examines the linear relationships between all the numerical clinical features using a correlation heatmap, and visualises how pairs of features separate the two risk groups using a pairplot.
@@ -86,9 +88,14 @@ This analysis examines the linear relationships between all the numerical clinic
 * Systolic BP and weight_kg (-0.18) show a slight negative correlation, which is counterintuitive and likely reflects the limited weight range in this cohort (45–65 kg) rather than a true clinical relationship
 * All remaining pairs are effectively at zero, meaning age, weight, height, and gestational weeks are largely independent of each other and of blood pressure in this dataset
 
+![Correlation Heatmap](outputs/correlation_heatmap.png)
+  
 ##### Plot 2 : Pairplot of Clinical Features by Risk Group
 
 The pairplot indicates that BP-related features (systolic BP, diastolic BP, and MAP) provide the clearest separation between risk groups. The risky group consistently shows broader, right-shifted distributions compared to the tighter, lower centred non-risky group. Features like age, weight, and gravida show similiar distributions across both groups, offering no meaningful separation. 
+
+![Pairplot](outputs/pairplot.png)
+
 
 ### 4. Weight & BMI Analysis (`BMI_analysis.py`)
 #### Overview
@@ -110,6 +117,9 @@ This shows that MAP is the key risk driver, and BMI has no effect on that relati
 
 ##### Plot 3&4 : Weight Distribution, Age vs BMI by Risk Group
 Weight and age have no effect on preganacy risk level in this dataset.
+
+![BMI_analysis](outputs/bmi_analysis.png)
+
 
 ---
 
