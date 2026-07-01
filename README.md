@@ -8,7 +8,7 @@ Exploratory Data Analysis on a maternal health dataset originally recorded in Be
 
 - **File:** `Maternal_DS.xlsx`
 - **Rows:** 998 patients
-- **Language:** Column names in Bengali — automatically translated to English using `deep_translator`
+- **Language:** Column names in Bengali are automatically translated to English using `deep_translator`
 - **Target variable:** `risky_pregnancy` (Yes / No)
 
 **Features include:** age, weight, height, blood pressure, gestational age, gravida, anemia, jaundice, fetal position, fetal heartbeat, urine albumin & sugar, VDRL, HRsAG
@@ -69,14 +69,13 @@ Both groups with high BP — regardless of whether anemia is present — are cla
 
 ##### Plot 2 : Risk % by Anemia Severity
 
-Across all three anemia categories — None (66.7%), Minimal (66.1%), and Medium (67.2%) — the risk percentage stays within 1% of each other
-This near-flat pattern shows that anemia severity has no meaningful independent effect on pregnancy risk classification.
+Across all the three anemia categories, None (66.7%), Minimal (66.1%), and Medium (67.2%), the risk percentage stays within 1% of each other. The near-flat pattern shows that anemia severity has no meaningful independent effect on pregnancy risk classification.
 
 ##### Plot 3 : Distribution of MAP by Risk Group
 The boxplot shows an upward shift in MAP for the risky pregnancy group compared to the non-risky group:
 
 The risky group has a median MAP of approximately 77 mmHg, with an IQR between ~74–80 mmHg and a narrow overall spread.
-The non-risky group has a lower median MAP of approximately 73 mmHg, a wider IQR (~70–80 mmHg), indicating greater variability among lower-risk patients.
+The non-risky group has a lower median MAP of approximately 73 mmHg, a wider IQR (~70–80 mmHg), indicating greater variability among lower risk patients.
 The tighter, higher distribution in the risky group suggests that elevated MAP is a consistent characteristic of risky pregnancies.
 
 ##### Plot 4 : Risk % by Jaundice Severity
@@ -100,14 +99,14 @@ This analysis examines the linear relationships between all the numerical clinic
 
 * MAP and diastolic BP (0.90) show the strongest correlation in the dataset.
 * MAP and systolic BP (0.67) show a strong positive correlation.
-* Systolic and diastolic BP (0.27) show a weak-to-moderate positive correlation, meaning patients with higher systolic readings tend to also have slightly higher diastolic readings.
-* Age and gravida_numerical (0.20) show a weak positive correlation — older patients have naturally had more pregnancies on average.
+* Systolic and diastolic BP (0.27) show a weak positive correlation, meaning patients with higher systolic readings tend to also have slightly higher diastolic readings.
+* Age and gravida_numerical (0.20) show a weak positive correlation, older patients have had more pregnancies on average.
 * Systolic BP and weight_kg (-0.18) show a slight negative correlation, which is counterintuitive and likely reflects the limited weight range in this cohort (45–65 kg) rather than a true clinical relationship
 * All remaining pairs are effectively at zero, meaning age, weight, height, and gestational weeks are largely independent of each other and of blood pressure in this dataset
 
 ##### Plot 2 : Pairplot of Clinical Features by Risk Group
 
-The pairplot indicates that BP-related features (systolic BP, diastolic BP, and MAP) provide the clearest separation between risk groups — the risky group consistently shows broader, right-shifted distributions compared to the tighter, lower-centred non-risky group. Features like age, weight, and gravida show similiar distributions across both groups, offering no meaningful separation. 
+The pairplot indicates that BP-related features (systolic BP, diastolic BP, and MAP) provide the clearest separation between risk groups. The risky group consistently shows broader, right-shifted distributions compared to the tighter, lower centred non-risky group. Features like age, weight, and gravida show similiar distributions across both groups, offering no meaningful separation. 
 
 ### 4. Weight & BMI Analysis (`BMI_analysis.py`)
 - Parses weight (kg) and height (ft), converts height to metres, computes BMI
