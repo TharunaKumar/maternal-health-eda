@@ -16,25 +16,6 @@ Exploratory Data Analysis on a maternal health dataset originally recorded in Be
 
 ---
 
-## Project Structure
-
-```
-├── data/
-│   └── Maternal_DS.xlsx
-├── scripts/
-│   ├── test.py                   # Data loading, cleaning, MAP calculation, initial plots
-│   ├── risk_factor_analysis.py   # Risk factor deep-dive (anemia, BP, jaundice, fetal position)
-│   ├── correlation_analysis.py   # Correlation heatmap and pairplot
-│   └── BMI_analysis.py           # Weight and BMI analysis
-├── outputs/
-│   ├── risk_factor_analysis.png
-│   ├── correlation_heatmap.png
-│   ├── pairplot.png
-│   └── bmi_analysis.png
-├── requirements.txt
-└── README.md
-```
-
 ---
 
 ## Analysis
