@@ -93,7 +93,17 @@ The risky group has a median MAP of approximately 77 mmHg, with an IQR between ~
 The non-risky group has a lower median MAP of approximately 73 mmHg, a wider IQR (~70–80 mmHg), indicating greater variability among lower-risk patients.
 The tighter, higher distribution in the risky group suggests that elevated MAP is a consistent characteristic of risky pregnancies.
 
-##### Plot 4 : 
+##### Plot 4 : Risk % by Jaundice Severity
+
+Patients with no jaundice show a 66.7% risk rate, consistent with the baseline.
+Minimal jaundice shows a slight dip to 62.5%, which can be due to the small sample size.
+Medium jaundice shows a rise to 75%, suggesting that more severe jaundice may be associated with higher pregnancy risk in this dataset.
+
+##### Plot 5 : Fetal Position vs Risk Level
+
+The vast majority of patients (330 non-risky, 662 risky) have a Normal fetal position.
+Only 6 patients have an Abnormal fetal position (2 non-risky, 4 risky), making it difficult to perform analysis.
+Abnormal fetal position is in this dataset is not a useful risk indicator.
 
 ### 3. Correlation & Multivariate Analysis (`correlation_analysis.py`)
 - Correlation heatmap across all numerical clinical features
