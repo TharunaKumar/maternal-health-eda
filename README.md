@@ -7,6 +7,7 @@ Exploratory Data Analysis on a maternal health dataset originally recorded in Be
 ## Dataset
 
 - **File:** `Maternal_DS.xlsx`
+- **Source:** https://zenodo.org/records/14537882
 - **Rows:** 998 patients
 - **Language:** Column names in Bengali are automatically translated to English using `deep_translator`
 - **Target variable:** `risky_pregnancy` (Yes / No)
