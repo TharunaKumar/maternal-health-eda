@@ -92,9 +92,22 @@ Only 6 patients have an Abnormal fetal position (2 non-risky, 4 risky), making i
 Abnormal fetal position is in this dataset is not a useful risk indicator.
 
 ### 3. Correlation & Multivariate Analysis (`correlation_analysis.py`)
-- Correlation heatmap across all numerical clinical features
-- Pairplot coloured by risk group to spot multivariate separation
-- **Key finding:** BP-related features (systolic, diastolic, MAP) show the clearest separation between risk groups; weight, height, and gestational age show near-zero correlation with risk
+#### Overview
+This analysis examines the linear relationships between all the numerical clinical features using a correlation heatmap, and visualises how pairs of features separate the two risk groups using a pairplot.
+
+#### Visualisations
+##### Plot 1 : Correlation Heatmap
+
+* MAP and diastolic BP (0.90) show the strongest correlation in the dataset.
+* MAP and systolic BP (0.67) show a strong positive correlation.
+* Systolic and diastolic BP (0.27) show a weak-to-moderate positive correlation, meaning patients with higher systolic readings tend to also have slightly higher diastolic readings.
+* Age and gravida_numerical (0.20) show a weak positive correlation — older patients have naturally had more pregnancies on average.
+* Systolic BP and weight_kg (-0.18) show a slight negative correlation, which is counterintuitive and likely reflects the limited weight range in this cohort (45–65 kg) rather than a true clinical relationship
+* All remaining pairs are effectively at zero, meaning age, weight, height, and gestational weeks are largely independent of each other and of blood pressure in this dataset
+
+##### Plot 2 : Pairplot of Clinical Features by Risk Group
+
+The pairplot indicates that BP-related features (systolic BP, diastolic BP, and MAP) provide the clearest separation between risk groups — the risky group consistently shows broader, right-shifted distributions compared to the tighter, lower-centred non-risky group. Features like age, weight, and gravida show similiar distributions across both groups, offering no meaningful separation. 
 
 ### 4. Weight & BMI Analysis (`BMI_analysis.py`)
 - Parses weight (kg) and height (ft), converts height to metres, computes BMI
