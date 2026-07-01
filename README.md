@@ -131,16 +131,16 @@ Weight and age have no effect on preganacy risk level in this dataset.
 
 ---
 
-## Key Findings Summary
+## Summary of Key Findings
 
 | Factor | Finding |
 |---|---|
-| High BP | 100% of high-BP patients classified as risky — strongest predictor |
+| High BP | 100% of high-BP patients classified as risky. This is the strongest predictor |
 | HRsAG | Positive results appear exclusively in the risky group (16.4%) |
-| VDRL | No predictive value — 50/50 split in both risk groups |
-| Anemia | Not a standalone predictor; risk % similar across severity levels |
+| VDRL | No predictive value |
+| Anemia | Not a standalone predictor; risk percentage is similar across severity levels |
 | BMI / Weight | No meaningful separation between risk groups |
-| Age | Similar distribution across risk groups — not a strong standalone predictor |
+| Age | Similar distribution across risk groups|
 
 ---
 
