@@ -109,9 +109,25 @@ This analysis examines the linear relationships between all the numerical clinic
 The pairplot indicates that BP-related features (systolic BP, diastolic BP, and MAP) provide the clearest separation between risk groups. The risky group consistently shows broader, right-shifted distributions compared to the tighter, lower centred non-risky group. Features like age, weight, and gravida show similiar distributions across both groups, offering no meaningful separation. 
 
 ### 4. Weight & BMI Analysis (`BMI_analysis.py`)
-- Parses weight (kg) and height (ft), converts height to metres, computes BMI
-- Classifies patients into WHO BMI categories (Underweight / Normal / Overweight)
-- **Key finding:** BMI alone is not a strong predictor of pregnancy risk in this cohort — distributions are nearly identical across risk groups
+#### Overview
+This analysis parses the raw weight (kg) and height (ft) string fields into numerical values, converts height to metres, and computes a proxy BMI. Patients are then classified into WHO BMI categories to examine whether body composition is associated with pregnancy risk.
+
+#### Feature Engineering
+* Height conversion: Height was recorded in feet. Converted it into metres using height_m = height_ft × 0.3048
+* BMI calculation: BMI = weight_kg / height_m²
+* BMI categories: Classified using standard WHO thresholds : Underweight (<18.5), Normal (18.5–24.9), Overweight (25–29.9)
+
+#### Visualisations
+##### Plot 1 : BMI Distribution by Risk Group
+Both risk groups follow a similar bell-shaped distribution centred around BMI 20–24, with the majority of patients falling within the Normal range. The dashed reference lines at 18.5 and 25 show that only a small number of patients fall in the Underweight or Overweight categories.
+This shows that BMI is not a differentiating factor between risk groups.
+
+##### Plot 2 : BMI vs MAP by Risk Group
+Risky patients (red) are concentrated in the higher MAP bands (80–90 mmHg) across all BMI values, while non-risky patients (green) cluster in the lower bands (~70 mmHg).
+This shows that MAP is the key risk driver, and BMI has no effect on that relationship.
+
+##### Plot 3&4 : Weight Distribution, Age vs BMI by Risk Group
+Weight and age have no effect on preganacy risk level in this dataset.
 
 ---
 
